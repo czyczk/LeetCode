@@ -4,3 +4,4 @@ LeetCode solutions
 |No.|Title|Solution|Date|Difficulty|Struggle|
 |---|-----|--------|----|----------|--------|
 |  1|Two Sum|Kotlin|2017-11-25|Easy||
+|  2|Add Two Numbers|Kotlin|2017-11-28|Medium||
