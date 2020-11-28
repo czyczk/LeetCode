@@ -9,5 +9,6 @@ LeetCode solutions
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
+| 493|Reverse Pairs|Java|✖|Hard||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
