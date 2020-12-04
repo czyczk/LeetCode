@@ -10,6 +10,7 @@ LeetCode solutions
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 493|Reverse Pairs|Java|✖|Hard||
+| 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
