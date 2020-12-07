@@ -13,6 +13,7 @@ LeetCode solutions
 | 493|Reverse Pairs|Java|✖|Hard||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
+| 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
