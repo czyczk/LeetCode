@@ -12,6 +12,7 @@ LeetCode solutions
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 493|Reverse Pairs|Java|✖|Hard||
+| 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
