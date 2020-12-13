@@ -8,6 +8,7 @@ LeetCode solutions
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
+| 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
