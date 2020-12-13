@@ -5,6 +5,7 @@ LeetCode solutions
 |----|-----|--------|----|----------|--------|
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
 |   2|Add Two Numbers|Kotlin|2017-11-28|Medium||
+|  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
