@@ -15,6 +15,9 @@ fn main() {
     let pattern4 = "abba".to_owned();
     let s4 = "dog dog dog dog".to_owned();
 
+    let pattern5 = "aaa".to_owned();
+    let s5 = "aa aa aa aa".to_owned();
+
     // Expecting true
     println!("{}", Solution::word_pattern(pattern1, s1));
     // Expecting false
@@ -23,4 +26,6 @@ fn main() {
     println!("{}", Solution::word_pattern(pattern3, s3));
     // Expecting false
     println!("{}", Solution::word_pattern(pattern4, s4));
+    // Expecting false
+    println!("{}", Solution::word_pattern(pattern5, s5));
 }
