@@ -13,6 +13,7 @@ LeetCode solutions
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
+| 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 389|Find the Difference|Rust|2020-12-18|Easy||
