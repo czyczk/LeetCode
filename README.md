@@ -14,6 +14,7 @@ LeetCode solutions
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
+| 389|Find the Difference|Rust|2020-12-18|Easy||
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
