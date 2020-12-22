@@ -17,6 +17,7 @@ LeetCode solutions
 | 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
+| 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 493|Reverse Pairs|Java|✖|Hard||
