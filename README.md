@@ -10,6 +10,7 @@ LeetCode solutions
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
+| 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
