@@ -21,6 +21,7 @@ LeetCode solutions
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
+| 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
