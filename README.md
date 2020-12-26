@@ -11,6 +11,7 @@ LeetCode solutions
 |  85|Maximal Rectangle|Rust|✖|Hard||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
+| 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
@@ -21,6 +22,7 @@ LeetCode solutions
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
+| 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
