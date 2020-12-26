@@ -8,6 +8,7 @@ LeetCode solutions
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
+|  85|Maximal Rectangle|Rust|✖|Hard||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
