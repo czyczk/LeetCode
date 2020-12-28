@@ -13,6 +13,7 @@ LeetCode solutions
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
+| 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28***※|Hard|★★★★★|
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
