@@ -19,6 +19,7 @@ LeetCode solutions
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
+| 330|Patching Array|2020-12-29|Rust|Hard|★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
