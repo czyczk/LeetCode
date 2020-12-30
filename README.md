@@ -37,5 +37,6 @@ LeetCode solutions
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
+|1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
