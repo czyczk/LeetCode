@@ -24,6 +24,7 @@ LeetCode solutions
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
+| 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
