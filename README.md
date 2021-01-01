@@ -28,6 +28,7 @@ LeetCode solutions
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
+| 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
