@@ -9,6 +9,7 @@ LeetCode solutions
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 |  85|Maximal Rectangle|Rust|✖|Hard||
+|  86|Partition List|Go|2021-01-03|Easy|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 135|Candy|Rust|2020-12-24|Hard|★★|
@@ -17,7 +18,7 @@ LeetCode solutions
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
-| 239|Sliding Window Maximum|Go/Rust|2021-01-03|Hard|★★|
+| 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
 | 330|Patching Array|2020-12-29|Rust|Hard|★★★|
