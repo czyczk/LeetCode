@@ -17,6 +17,7 @@ LeetCode solutions
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
+| 239|Sliding Window Maximum|Go/Rust|2021-01-03|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
 | 330|Patching Array|2020-12-29|Rust|Hard|★★★|
