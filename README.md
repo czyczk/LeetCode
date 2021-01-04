@@ -46,3 +46,11 @@ LeetCode solutions
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
+
+# LeetCode 剑指 Offer
+LeetCode 剑指 Offer solutions
+
+|No.    |Title|Solution|Date|Difficulty|Struggle|
+|-------|-----|--------|----|----------|--------|
+|lcof-03|数组中重复的数字|Go|2021-01-05|Easy||
+
