@@ -52,5 +52,5 @@ LeetCode 剑指 Offer solutions
 
 |No.    |Title|Solution|Date|Difficulty|Struggle|
 |-------|-----|--------|----|----------|--------|
-|lcof-03|数组中重复的数字|Go|2021-01-05|Easy||
+|lcof-03|数组中重复的数字|Go/Rust|2021-01-05|Easy||
 
