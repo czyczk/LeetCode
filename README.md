@@ -32,6 +32,7 @@ LeetCode solutions
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
+| 547|Number of Provinces|Rust|2021-01-07|Medium||
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
