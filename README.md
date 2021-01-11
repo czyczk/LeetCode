@@ -23,8 +23,8 @@ LeetCode solutions
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
-| 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
-| 330|Patching Array|2020-12-29|Rust|Hard|★★★|
+| 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
+| 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
