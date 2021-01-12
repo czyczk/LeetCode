@@ -12,6 +12,7 @@ LeetCode solutions
 |  86|Partition List|Go|2021-01-03|Easy|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
+| 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28***※|Hard|★★★★★|
@@ -20,10 +21,11 @@ LeetCode solutions
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
+| 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
-| 316|Remove Duplicate Letters|2020-12-20|Rust|Medium|★|
-| 330|Patching Array|2020-12-29|Rust|Hard|★★★|
+| 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
+| 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
@@ -48,6 +50,7 @@ LeetCode solutions
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
+|1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
 
