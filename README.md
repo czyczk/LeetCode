@@ -17,6 +17,7 @@ LeetCode solutions
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28***※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
+| 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
