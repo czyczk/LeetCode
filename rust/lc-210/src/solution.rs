@@ -52,28 +52,44 @@ impl Digraph {
     }
 
     fn dfs(&mut self, u: usize, order_idx: &mut usize) {
-        self.visited[u] = VertexStatus::Visiting;
+        let mut stack = vec![];
+        let mut init_queue = std::collections::VecDeque::new();
+        init_queue.push_back(u);
+        stack.push(init_queue);
 
-        let adjacents = self.edges[u].clone();
-        for &v in adjacents.iter() {
-            match self.visited[v] {
-                VertexStatus::Pending => {
-                    self.dfs(v, order_idx);
-                    if !self.is_valid {
-                        return;
-                    }
+        while !stack.is_empty() {
+            if stack.last().unwrap().is_empty() {
+                stack.pop();
+                if stack.is_empty() {
+                    continue;
                 }
+
+                let cur = stack.last_mut().unwrap().pop_front().unwrap();
+                self.visited[cur] = VertexStatus::Visited;
+                self.order[*order_idx] = cur;
+                *order_idx = order_idx.saturating_sub(1);
+                continue;
+            }
+
+            let &cur = stack.last().unwrap().front().unwrap();
+            match self.visited[cur] {
                 VertexStatus::Visiting => {
                     self.is_valid = false;
-                    return;
+                    break;
                 }
-                _ => {}
+                VertexStatus::Pending => {
+                    let mut queue = std::collections::VecDeque::new();
+                    for &v in &self.edges[cur] {
+                        queue.push_back(v);
+                    }
+                    stack.push(queue);
+                    self.visited[cur] = VertexStatus::Visiting;
+                }
+                VertexStatus::Visited => {
+                    stack.last_mut().unwrap().pop_front();
+                }
             }
         }
-
-        self.visited[u] = VertexStatus::Visited;
-        self.order[*order_idx] = u;
-        *order_idx = order_idx.saturating_sub(1);
     }
 
     pub fn get_order(&mut self) -> &[usize] {
