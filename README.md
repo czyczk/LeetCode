@@ -50,6 +50,7 @@ LeetCode solutions
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
+|1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
