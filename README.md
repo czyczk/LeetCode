@@ -45,6 +45,7 @@ LeetCode solutions
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
 | 746|Min Cost Climbing Stairs|Go/Rust|2020-12-21|Easy|★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
+| 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
