@@ -55,6 +55,7 @@ LeetCode solutions
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
+|1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
 
