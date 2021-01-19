@@ -58,6 +58,7 @@ LeetCode solutions
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
+|1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
 
 
 # LeetCode 剑指 Offer
