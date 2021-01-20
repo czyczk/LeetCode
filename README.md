@@ -38,6 +38,7 @@ LeetCode solutions
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
+| 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
