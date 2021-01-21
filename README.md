@@ -38,21 +38,29 @@ LeetCode solutions
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
+| 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
+| 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
+| 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
 | 746|Min Cost Climbing Stairs|Go/Rust|2020-12-21|Easy|★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
+| 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
+| 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
+|1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
+|1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
+|1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
 
 
 # LeetCode 剑指 Offer
