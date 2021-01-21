@@ -51,6 +51,7 @@ LeetCode solutions
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
+|1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 
 
