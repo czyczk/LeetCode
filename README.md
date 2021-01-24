@@ -60,6 +60,7 @@ LeetCode solutions
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
 |1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
+|1319|Number of Operations to Make Network Connected|Rust|2021-01-24|Medium||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
