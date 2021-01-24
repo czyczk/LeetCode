@@ -41,6 +41,7 @@ LeetCode solutions
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
+| 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
