@@ -59,6 +59,7 @@ LeetCode solutions
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
+|1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
 |1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
