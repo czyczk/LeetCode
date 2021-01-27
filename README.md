@@ -45,6 +45,7 @@ LeetCode solutions
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
+| 724|Find Pivot Index|Go|2021-01-28|Easy||
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
 | 746|Min Cost Climbing Stairs|Go/Rust|2020-12-21|Easy|★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
