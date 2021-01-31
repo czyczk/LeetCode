@@ -52,6 +52,7 @@ LeetCode solutions
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
+| 839|Similar String Groups|Go|2021-01-31|Hard||
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
