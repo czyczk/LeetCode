@@ -31,6 +31,7 @@ LeetCode solutions
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
+| 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
