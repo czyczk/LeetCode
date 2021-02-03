@@ -15,7 +15,7 @@ LeetCode solutions
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
-| 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28***※|Hard|★★★★★|
+| 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
@@ -35,6 +35,7 @@ LeetCode solutions
 | 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
+| 480|Sliding Window Median|2021-02-03|Hard|★★★★★|
 | 493|Reverse Pairs|Java|✖|Hard||
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
