@@ -73,6 +73,7 @@ LeetCode solutions
 |1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
 |1319|Number of Operations to Make Network Connected|Rust|2021-01-24|Medium||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
+|1423|Maximum Points You Can Obtain from Cards|Rust|2021-02-06|Medium||
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1579|Remove Max Number of Edges to Keep Graph Fully Traversable|Go|2021-01-27|Hard|★|
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
