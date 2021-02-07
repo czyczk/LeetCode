@@ -44,6 +44,7 @@ LeetCode solutions
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
+| 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
