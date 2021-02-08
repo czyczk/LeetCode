@@ -64,6 +64,7 @@ LeetCode solutions
 | 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 959|Regions Cut By Slashes|Rust|2021-01-25|Medium|★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
+| 978|Longest Turbulent Subarray|Rust|2021-02-08|Medium||
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
