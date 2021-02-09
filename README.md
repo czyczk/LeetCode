@@ -66,6 +66,7 @@ LeetCode solutions
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
 | 978|Longest Turbulent Subarray|Rust|2021-02-08|Medium||
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
+| 992|Subarrays with K Different Integers|Go|2021-02-09|Hard|★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
