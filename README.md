@@ -12,6 +12,7 @@ LeetCode solutions
 |  86|Partition List|Go|2021-01-03|Easy|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
+| 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
