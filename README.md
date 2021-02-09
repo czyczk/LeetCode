@@ -40,6 +40,7 @@ LeetCode solutions
 | 493|Reverse Pairs|Java|✖|Hard||
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
+| 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
@@ -48,6 +49,7 @@ LeetCode solutions
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
+| 703|Kth Largest Element in a Stream|Rust|2021-02-11|Easy||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
@@ -65,7 +67,9 @@ LeetCode solutions
 | 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 959|Regions Cut By Slashes|Rust|2021-01-25|Medium|★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
+| 978|Longest Turbulent Subarray|Rust|2021-02-08|Medium||
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
+| 992|Subarrays with K Different Integers|Go/Rust|2021-02-09|Hard|★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
