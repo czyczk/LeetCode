@@ -48,6 +48,7 @@ LeetCode solutions
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
+| 703|Kth Largest Element in a Stream|Rust|2021-02-11|Easy||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
