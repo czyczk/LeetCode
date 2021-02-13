@@ -34,6 +34,7 @@ LeetCode solutions
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
+| 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 480|Sliding Window Median|2021-02-03|Hard|★★★★★|
