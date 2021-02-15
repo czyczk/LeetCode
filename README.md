@@ -56,6 +56,7 @@ LeetCode solutions
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
 | 746|Min Cost Climbing Stairs|Go/Rust|2020-12-21|Easy|★|
+| 765|Couples Holding Hands|Rust|2021-02-15|Hard|★★★|
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
