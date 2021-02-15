@@ -41,6 +41,7 @@ LeetCode solutions
 | 493|Reverse Pairs|Java|✖|Hard||
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
+| 561|Array Partition I|Rust|2021-02-16|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
