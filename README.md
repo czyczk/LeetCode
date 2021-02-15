@@ -38,6 +38,7 @@ LeetCode solutions
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
 | 480|Sliding Window Median|2021-02-03|Hard|★★★★★|
+| 485|Max Consecutive Ones|2021-02-15|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
