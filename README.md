@@ -75,7 +75,8 @@ LeetCode solutions
 | 978|Longest Turbulent Subarray|Rust|2021-02-08|Medium||
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
 | 992|Subarrays with K Different Integers|Go/Rust|2021-02-09|Hard|★★★|
-| 995|Minimum Number of K Consecutive Bit Flips|Go|2021-02-1*8|Hard|★★★|
+| 995|Minimum Number of K Consecutive Bit Flips|Go|2021-02-18|Hard|★★★|
+|1004|Max Consecutive Ones III|Rust|2021-02-19|Medium|★★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
