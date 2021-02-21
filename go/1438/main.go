@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"sort"
 )
 
 func main() {
@@ -18,6 +17,9 @@ func main() {
 	nums4 := []int{1, 5, 6, 7, 8, 10, 6, 5, 6}
 	limit4 := 4
 
+	nums5 := []int{38, 73, 69, 15, 59, 36, 14, 6, 38, 2, 79, 86, 2, 12, 53, 15, 6, 25, 31, 76, 54, 21, 15, 58, 22, 88, 31, 21, 96, 14, 56, 49, 70, 38, 71, 33, 92, 62, 41, 13, 27, 84, 41, 6, 4, 2, 38, 93, 77, 41, 58, 51, 41, 52, 9, 9, 41, 77, 59, 15, 33, 28, 80, 100, 70, 89, 61}
+	limit5 := 73
+
 	// Expecting 2
 	fmt.Println(longestSubarray(nums1, limit1))
 	// Expecting 4
@@ -26,72 +28,44 @@ func main() {
 	fmt.Println(longestSubarray(nums3, limit3))
 	// Expecting 5
 	fmt.Println(longestSubarray(nums4, limit4))
+	// Expecting 15
+	fmt.Println(longestSubarray(nums5, limit5))
 }
 
 func longestSubarray(nums []int, limit int) int {
 	left, right := 0, 0
-	maxHeap := NewMaxHeap()
-	maxHeap.Push(0)
-	minHeap := NewMaxHeap()
-	minHeap.Push(-int(^uint(0) >> 1))
+	minQ, maxQ := []int{}, []int{}
 
 	n := len(nums)
 	maxWindowSize := 1
-	curDiff := 0
 	for right < n {
 		num := nums[right]
-		isModified := false
-		maxNum := maxHeap.Peek()
-		minNum := -minHeap.Peek()
 
-		if num > maxNum {
-			isModified = true
-			maxNum = num
+		for len(minQ) > 0 && minQ[len(minQ)-1] > num {
+			minQ = minQ[:len(minQ)-1]
 		}
-		if num < minNum {
-			isModified = true
-			minNum = num
+		minQ = append(minQ, num)
+		for len(maxQ) > 0 && maxQ[len(maxQ)-1] < num {
+			maxQ = maxQ[:len(maxQ)-1]
 		}
+		maxQ = append(maxQ, num)
 
-		//fmt.Printf("right: %v, left: %v, max: %v, min: %v, mws: %v, m: %v\n", right, left, maxNum, minNum, maxWindowSize, isModified)
-
-		maxHeap.Push(num)
-		minHeap.Push(-num)
-
-		leftNum := nums[left]
-		if isModified {
-			diff := abs(num - leftNum)
-			curDiff = diff
-		}
-
-		if curDiff > limit {
-			// Shift `left` right
-			maxHeap.Remove(leftNum)
-			minHeap.Remove(-leftNum)
-			if leftNum == maxNum {
-				maxHeap.Pop()
+		for maxQ[0]-minQ[0] > limit {
+			leftNum := nums[left]
+			if maxQ[0] == leftNum {
+				maxQ = maxQ[1:]
 			}
-			if leftNum == minNum {
-				minHeap.Pop()
+			if minQ[0] == leftNum {
+				minQ = minQ[1:]
 			}
 			left++
-		} else {
-			// Check if the current window size is larger
-			maxWindowSize = max(maxWindowSize, right-left+1)
 		}
 
-		//fmt.Println("mws:", maxWindowSize)
+		maxWindowSize = max(maxWindowSize, right-left+1)
 		right++
 	}
 
 	return maxWindowSize
-}
-
-func abs(x int) int {
-	if x < 0 {
-		return -x
-	}
-	return x
 }
 
 func max(x, y int) int {
@@ -99,49 +73,4 @@ func max(x, y int) int {
 		return x
 	}
 	return y
-}
-
-type MaxHeap struct {
-	sort.IntSlice
-	delayedRemoval map[int]int
-}
-
-func NewMaxHeap() *MaxHeap {
-	return &MaxHeap{
-		delayedRemoval: make(map[int]int),
-	}
-}
-
-func (h *MaxHeap) Push(x interface{}) {
-	h.IntSlice = append(h.IntSlice, x.(int))
-}
-
-func (h *MaxHeap) Pop() interface{} {
-	slice := h.IntSlice
-	ret := slice[len(slice)-1]
-	h.IntSlice = slice[:len(slice)-1]
-
-	// Perform delayed removals
-	numTop := h.Peek()
-	freq, ok := h.delayedRemoval[numTop]
-	if ok {
-		h.IntSlice = slice[:len(slice)-1-freq]
-		delete(h.delayedRemoval, numTop)
-	}
-
-	return ret
-}
-
-func (h *MaxHeap) Peek() int {
-	slice := h.IntSlice
-	return slice[len(slice)-1]
-}
-
-func (h *MaxHeap) Remove(num int) {
-	freq, ok := h.delayedRemoval[num]
-	if ok {
-		h.delayedRemoval[num] = freq + 1
-	} else {
-		h.delayedRemoval[num] = 1
-	}
 }
