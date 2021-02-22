@@ -1,4 +1,5 @@
 # LeetCode
+
 LeetCode solutions
 
 |No. |Title|Solution|Date|Difficulty|Struggle|
@@ -81,6 +82,7 @@ LeetCode solutions
 |1004|Max Consecutive Ones III|Rust|2021-02-19|Medium|★★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
+|1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
