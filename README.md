@@ -72,6 +72,7 @@ LeetCode solutions
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
+| 867|Transpose Matrix|Rust|2021-02-25|Easy||
 | 888|Fair Candy Swap|Rust|2021-02-01|Easy||
 | 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 959|Regions Cut By Slashes|Rust|2021-01-25|Medium|★|
