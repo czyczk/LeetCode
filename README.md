@@ -86,6 +86,7 @@ LeetCode solutions
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
+|1178|Number of Valid Words for Each Puzzle|C#/Rust|2021-02-26|Hard|★★★|
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
 |1208|Get Equal Substring Within Budget|Go/Rust|2021-02-05|Medium||
