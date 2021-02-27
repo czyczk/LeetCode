@@ -32,6 +32,7 @@
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
+| 395|Longest Substring with At Least K Repeating Characters|Go|2021-02-27|Medium|★★★|
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
