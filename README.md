@@ -26,6 +26,7 @@
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
+| 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
