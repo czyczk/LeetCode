@@ -31,6 +31,7 @@
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
+| 354|Russian Doll Envelopes|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
