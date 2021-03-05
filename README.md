@@ -24,6 +24,7 @@
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
+| 232|Implement Queue using Stacks|Rust|2021-03-05|Easy|★|
 | 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
