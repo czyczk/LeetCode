@@ -47,6 +47,7 @@
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
+| 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
 | 561|Array Partition I|Rust|2021-02-16|Easy||
