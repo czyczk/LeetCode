@@ -5,7 +5,8 @@
 |No. |Title|Solution|Date|Difficulty|Struggle|
 |----|-----|--------|----|----------|--------|
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
-|   2|Add Two Numbers|Kotlin|2017-11-28|Medium||
+|   2|Add Two Numbers|Go/Kotlin|2017-11-28|Medium||
+|   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
@@ -16,6 +17,7 @@
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
 | 131|Palindrome Partitioning|Rust|2021-03-07|Medium|★★★|
+| 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
@@ -57,6 +59,7 @@
 | 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
+| 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
