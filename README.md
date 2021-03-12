@@ -36,6 +36,7 @@
 | 304|Range Sum Query 2D - Immutable|Rust|2021-03-02|Medium||
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
+| 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
 | 354|Russian Doll Envelopes|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
