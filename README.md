@@ -9,6 +9,7 @@
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
+|  54|Spiral Matrix|Go|2021-03-15|Medium|★|
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
