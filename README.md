@@ -15,6 +15,7 @@
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
+| 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
