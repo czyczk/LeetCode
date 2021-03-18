@@ -121,6 +121,7 @@
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1579|Remove Max Number of Edges to Keep Graph Fully Traversable|Go|2021-01-27|Hard|★|
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
+|1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
 
 ## LeetCode 剑指 Offer solutions
