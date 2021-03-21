@@ -12,6 +12,7 @@
 |  54|Spiral Matrix|Go|2021-03-15|Medium|★|
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
+|  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
 |  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
