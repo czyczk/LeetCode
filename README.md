@@ -134,4 +134,5 @@
 |No.    |Title|Solution|Date|Difficulty|Struggle|
 |-------|-----|--------|----|----------|--------|
 |lcof-03|数组中重复的数字|Go/Rust|2021-01-05|Easy||
+|lcof-04|二维数组中的查找|Go|2021-04-12|Medium|★★|
 
