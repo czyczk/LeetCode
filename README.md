@@ -18,6 +18,7 @@
 |  86|Partition List|Go|2021-01-03|Easy|★|
 |  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
+| 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
 | 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
