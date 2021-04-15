@@ -27,7 +27,8 @@
 | 131|Palindrome Partitioning|Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
-| 150|Evaluate Reverse Polish Notation|Rst|2021-03-20|Medium||
+| 150|Evaluate Reverse Polish Notation|Rust|2021-03-20|Medium||
+| 154|Find Minimum in Rotated Sorted Array II|Go|2021-04-15|Easy||
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
