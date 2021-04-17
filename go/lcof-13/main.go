@@ -6,6 +6,8 @@ func main() {
 	m1, n1, k1 := 2, 3, 1
 	m2, n2, k2 := 3, 1, 0
 	m3, n3, k3 := 4, 11, 13
+	m4, n4, k4 := 38, 15, 9
+	m5, n5, k5 := 16, 8, 4
 
 	// Expecting 3
 	fmt.Println(movingCount(m1, n1, k1))
@@ -15,13 +17,18 @@ func main() {
 
 	// Expecting 1
 	fmt.Println(movingCount(m3, n3, k3))
+
+	// Expecting 135
+	fmt.Println(movingCount(m4, n4, k4))
+
+	// Expecting 15
+	fmt.Println(movingCount(m5, n5, k5))
 }
 
 type Status int
 
 const (
-	Pending Status = iota
-	Visited
+	Available Status = iota
 	Prohibited
 )
 
@@ -56,6 +63,7 @@ func movingCount(m, n, k int) int {
 				if numJ == 0 {
 					break
 				}
+				x *= 10
 			}
 
 			if sum > k {
@@ -64,26 +72,26 @@ func movingCount(m, n, k int) int {
 		}
 	}
 
-	steps := make([][]int, m)
-	for i := 0; i < m; i++ {
-		steps[i] = make([]int, n)
-	}
+	maxSteps := 0
 
 	for i := 0; i < m; i++ {
 		for j := 0; j < n; j++ {
-			if j-1 >= 0 {
-				steps[i][j] = steps[i][j-1]
-			} else if i-1 >= 0 {
-				steps[i][j] = steps[i-1][j] + 1
-			} else {
-				steps[i][j] = 0
+			isConnected := board[i][j] == Available
+
+			if isConnected && (i != 0 || j != 0) {
+				isLeftConnected := j-1 >= 0 && board[i][j-1] == Available
+				isUpConnected := i-1 >= 0 && board[i-1][j] == Available
+				if !isLeftConnected && !isUpConnected {
+					isConnected = false
+					board[i][j] = Prohibited
+				}
 			}
 
-			if board[i][j] == Pending {
-				steps[i][j]++
+			if isConnected {
+				maxSteps++
 			}
 		}
 	}
 
-	return steps[m-1][n-1]
+	return maxSteps
 }
