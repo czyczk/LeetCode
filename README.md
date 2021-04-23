@@ -52,6 +52,7 @@
 | 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
 | 341|Flatten Nested List Iterator|Rust|2021-03-23|Medium|★|
+| 343|Integer Break|Go|2021-04-23|Medium|★★★|
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
