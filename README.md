@@ -68,6 +68,7 @@
 | 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
+| 459|Repeated Substring Pattern|Go|2021-05-14|Easy|★★★|
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
