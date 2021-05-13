@@ -15,6 +15,7 @@
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 |  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
+|  72|Edit Distance|Java|2021-05-13|Hard|★★★|
 |  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
 |  79|Word Search|Go|2021-04-16|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
