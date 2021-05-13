@@ -7,23 +7,36 @@
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
 |   2|Add Two Numbers|Go/Kotlin|2017-11-28|Medium||
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
+|  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
+|  50|Pow(x, n)|Go|2021-04-23|Medium|★|
+|  54|Spiral Matrix|Go|2021-03-15|Medium|★|
+|  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
+|  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
+|  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
+|  79|Word Search|Go|2021-04-16|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
+|  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
+| 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
+| 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
 | 131|Palindrome Partitioning|Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Rust|2020-12-24|Hard|★★|
+| 150|Evaluate Reverse Polish Notation|Rust|2021-03-20|Medium||
+| 154|Find Minimum in Rotated Sorted Array II|Go|2021-04-15|Easy||
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
 | 191|Number of 1 Bits|Rust|2021-03-24|Easy|★|
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
+| 206|Reverse Linked List|Go|2021-03-18|Easy|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
@@ -39,6 +52,8 @@
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
+| 341|Flatten Nested List Iterator|Rust|2021-03-23|Medium|★|
+| 343|Integer Break|Go|2021-04-23|Medium|★★★|
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
@@ -56,6 +71,7 @@
 | 493|Reverse Pairs|Java|✖|Hard||
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
+| 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
@@ -82,6 +98,7 @@
 | 766|Toeplitz Matrix|Rust|2021-02-22|Easy||
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
+| 783|Minimum Distance Between BST Nodes|Go|2021-04-13|Easy|★★★|
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
 | 832|Flipping an Image|Rust|2021-02-24|Easy||
@@ -92,6 +109,7 @@
 | 867|Transpose Matrix|Rust|2021-02-25|Easy||
 | 888|Fair Candy Swap|Rust|2021-02-01|Easy||
 | 896|Monotonic Array|C#/Rust|2021-02-28|Easy||
+| 901|Online Stock Span|Go/Rust|2021-03-22|Medium|★★★|
 | 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 959|Regions Cut By Slashes|Rust|2021-01-25|Medium|★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
@@ -117,6 +135,7 @@
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1579|Remove Max Number of Edges to Keep Graph Fully Traversable|Go|2021-01-27|Hard|★|
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
+|1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
 
 ## LeetCode 剑指 Offer solutions
@@ -124,4 +143,24 @@
 |No.    |Title|Solution|Date|Difficulty|Struggle|
 |-------|-----|--------|----|----------|--------|
 |lcof-03|数组中重复的数字|Go/Rust|2021-01-05|Easy||
+|lcof-04|二维数组中的查找|Go|2021-04-12|Medium|★★|
+|lcof-05|替换空格|Go|2021-04-13|Easy||
+|lcof-06|从尾到头打印链码|Go|2021-04-13|Easy||
+|lcof-07|重建二叉树|Go|2021-04-13|Medium|★★★|
+|lcof-09|用两个栈实现队列|Go|2021-04-14|Easy||
+|lcof-10-I|斐波那契数列|Go|2021-04-14|Easy|★|
+|lcof-10-II|青蛙跳台阶问题|Go|2021-04-15|Easy|★★|
+|lcof-11|旋转数组的最小数字|Go|2021-04-15|Easy||
+|lcof-12|矩阵中的路径|Go|2021-04-15|Medium|★★★|
+|lcof-13|机器人的运动范围|Go|2021-04-17|Medium|★★★|
+|lcof-14-I|剪绳子|Go|2021-04-17|Medium|★★★|
+|lcof-14-II|剪绳子 II|Go|2021-04-17|Medium|★★★|
+|lcof-15|二进制中1的个数|Go|2021-04-20|Easy||
+|lcof-16|数值的整数次方|Go|2021-04-20|Medium|★|
+|lcof-17|打印从1到最大的n位数|Go|2021-04-23|Easy||
+|lcof-18|删除链表的节点|Go|2021-04-23|Easy||
+|lcof-19|正则表达式匹配|Go|2021-04-24|Hard※|★★★★★|
+|lcof-20|表示数值的字符串|Go|2021-04-25|Medium|★★|
+|lcof-21|调整数组顺序使奇数位于偶数前面|Go|2021-05-02|Easy||
+|lcof-22|链表中倒数第k个节点|Go|2021-05-03|Easy||
 
