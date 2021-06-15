@@ -52,6 +52,7 @@
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
 | 304|Range Sum Query 2D - Immutable|Rust|2021-03-02|Medium||
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
+| 322|Coin Change|Go/Rust|2021-06-16|Medium|★★★|
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
