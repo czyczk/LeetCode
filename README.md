@@ -9,7 +9,7 @@
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  27|Remove Element|Go|2021-06-17|Easy||
-|  28|Implement strStr()|Go/Java|2021-05-14|Easy|★★★|
+|  28|Implement strStr()|Go/Java/Rust|2021-05-14|Easy|★★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
