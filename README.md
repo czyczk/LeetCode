@@ -68,7 +68,7 @@
 | 395|Longest Substring with At Least K Repeating Characters|Go|2021-02-27|Medium|★★★|
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
-| 435|Non-overlapping Intervals|Rust|2020-12-31|Medium|★★|
+| 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
 | 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Rust|2020-12-25|Easy||
@@ -87,7 +87,7 @@
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
 | 583|Delete Operation for Two Strings|Rust|2021-06-21|Medium|★★★★|
-| 605|Can Place Flowers|Rust|2021-01-01|Easy|★★★|
+| 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
