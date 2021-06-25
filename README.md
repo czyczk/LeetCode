@@ -118,6 +118,7 @@
 | 832|Flipping an Image|Rust|2021-02-24|Easy||
 | 839|Similar String Groups|Go|2021-01-31|Hard||
 | 842|Split Array into Fibonacci Sequence|Java|2020-12-08|Medium|★★★|
+| 844|Backspace String Compare|Go|2021-06-25|Easy||
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 867|Transpose Matrix|Rust|2021-02-25|Easy||
