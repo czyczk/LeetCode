@@ -11,6 +11,7 @@
 |  26|Remove Duplicates from Sorted Array|Rust|2021-06-25|Easy||
 |  27|Remove Element|Go|2021-06-17|Easy||
 |  28|Implement strStr()|Go/Java/Rust|2021-05-14|Easy|★★★|
+|  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
