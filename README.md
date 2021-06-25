@@ -98,6 +98,7 @@
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 697|Degree of an Array|Go/Rust|2021-02-20|Easy||
 | 703|Kth Largest Element in a Stream|Rust|2021-02-11|Easy||
+| 704|Binary Search|Rust|2021-06-25|Easy||
 | 705|Design HashSet|Rust|2021-03-13|Easy||
 | 706|Design HashMap|Rust|2021-03-14|Easy||
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
