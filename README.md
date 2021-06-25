@@ -15,6 +15,7 @@
 |  49|Group Anagrams|Rust|2020-12-14|Medium||
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
 |  54|Spiral Matrix|Go|2021-03-15|Medium|★|
+|  55|Jump Game|Go/Rust|2021-06-25|Medium|★★|
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Java/Rust|2020-12-09|Medium||
 |  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
