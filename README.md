@@ -136,6 +136,7 @@
 | 989|Add to Array-Form of Integer|Go|2021-01-22|Easy|★|
 | 992|Subarrays with K Different Integers|Go/Rust|2021-02-09|Hard|★★★|
 | 995|Minimum Number of K Consecutive Bit Flips|Go|2021-02-18|Hard|★★★|
+| 997|Squares of a Sorted Array|Rust|2021-06-26|Easy|★|
 |1004|Max Consecutive Ones III|Rust|2021-02-19|Medium|★★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
