@@ -131,6 +131,7 @@
 | 888|Fair Candy Swap|Rust|2021-02-01|Easy||
 | 896|Monotonic Array|C#/Rust|2021-02-28|Easy||
 | 901|Online Stock Span|Go/Rust|2021-03-22|Medium|★★★|
+| 904|Fruit Into Baskets|Go|2021-06-30|Medium||
 | 947|Most Stones Removed with Same Row or Column|Go|2021-01-15|Medium|★★|
 | 959|Regions Cut By Slashes|Rust|2021-01-25|Medium|★|
 | 976|Largest Perimeter Triangle|Java|2020-11-30|Easy|★|
