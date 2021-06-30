@@ -48,6 +48,7 @@
 | 203|Remove Linked List Elements|Go|2021-06-05|Easy||
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 206|Reverse Linked List|Go|2021-03-18|Easy|★|
+| 209|Minimum Size Subarray Sum|Rust|2021-06-30|Medium|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
