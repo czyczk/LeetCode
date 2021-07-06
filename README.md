@@ -43,6 +43,7 @@
 | 150|Evaluate Reverse Polish Notation|Rust|2021-03-20|Medium||
 | 151|Reverse Words in a String|Go|2021-06-17|Medium|★★|
 | 154|Find Minimum in Rotated Sorted Array II|Go|2021-04-15|Easy||
+| 160|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
@@ -190,4 +191,10 @@
 |lcof-21|调整数组顺序使奇数位于偶数前面|Go|2021-05-02|Easy||
 |lcof-22|链表中倒数第k个节点|Go|2021-05-03|Easy||
 |lcof-58-II|左旋转字符串|Rust|2021-06-21|Easy||
+
+## LeetCode 程序员面试金典 solutions
+
+|No.       |Title|Solution|Date|Difficulty|Struggle|
+|----------|-----|--------|----|----------|--------|
+|lcci-02.07|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
 
