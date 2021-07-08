@@ -16,7 +16,7 @@
 |  35|Search Insert Position|Go|2021-06-26|Easy||
 |  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
-|  49|Group Anagrams|Rust|2020-12-14|Medium||
+|  49|Group Anagrams|Go/Rust|2020-12-14|Medium||
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
 |  54|Spiral Matrix|Go|2021-03-15|Medium|★|
 |  55|Jump Game|Go/Rust|2021-06-25|Medium|★★|
