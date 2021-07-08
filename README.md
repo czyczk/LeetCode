@@ -77,6 +77,7 @@
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Go/Rust|2020-12-12|Medium|★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
+| 383|Ransom Note|Go|2021-07-08|Easy||
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 395|Longest Substring with At Least K Repeating Characters|Go|2021-02-27|Medium|★★★|
