@@ -94,6 +94,7 @@
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
+| 494|Target Sum|Go|2021-07-13|Medium|★★★★|
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 516|Longest Palindromic Subsequence|Rust|2021-06-23|Medium|★★★|
