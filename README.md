@@ -155,6 +155,7 @@
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1047|Remove All Adjacent Duplicates In String|Rust|2021-03-09|Easy||
+|1049|Last Stone Weight II|Go|2021-07-12|Medium|★★★|
 |1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
 |1178|Number of Valid Words for Each Puzzle|C#/Rust|2021-02-26|Hard|★★★|
