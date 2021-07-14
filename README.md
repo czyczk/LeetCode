@@ -7,6 +7,7 @@
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
 |   2|Add Two Numbers|Go/Kotlin|2017-11-28|Medium||
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
+|   7|Reverse Integer|Go|2021-07-15|Easy|★|
 |  15|3Sum|Go|2021-06-27|Medium|★★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  26|Remove Duplicates from Sorted Array|Rust|2021-06-25|Easy||
