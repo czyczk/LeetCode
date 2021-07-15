@@ -57,6 +57,7 @@
 | 209|Minimum Size Subarray Sum|Rust|2021-06-30|Medium|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
+| 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 224|Basic Calculator|Rust|2021-03-10|Hard|★★★|
 | 227|Basic Calculator II|Rust|2021-03-12|Medium|★★★|
