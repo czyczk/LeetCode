@@ -79,6 +79,7 @@
 | 343|Integer Break|Go|2021-04-23|Medium|★★★|
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Go/Rust|2020-12-12|Medium|★|
+| 377|Combination Sum IV|Go|2021-07-18|Medium|★★|
 | 382|Linked List Random Node|Java/Rust|2020-11-24|Medium|★★★★|
 | 383|Ransom Note|Go|2021-07-08|Easy||
 | 387|First Unique Character in a String|Rust|2020-12-23|Easy||
