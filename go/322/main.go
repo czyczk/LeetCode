@@ -1,82 +1,58 @@
 package main
 
-import (
-	"fmt"
-)
-
 func main() {
-	coins1 := []int{1, 2, 5}
-	amount1 := 11
+	c1, a1 := []int{1, 2, 5}, 11
+	c2, a2 := []int{2}, 3
+	c3, a3 := []int{1}, 0
+	c4, a4 := []int{1}, 1
+	c5, a5 := []int{1}, 2
 
-	coins2 := []int{2}
-	amount2 := 3
-
-	coins3 := []int{1}
-	amount3 := 0
-
-	coins4 := []int{1}
-	amount4 := 1
-
-	coins5 := []int{1}
-	amount5 := 2
-
-	// Expecting 3 (11 = 5 + 5 + 1)
-	fmt.Println(coinChange(coins1, amount1))
+	// Expecting 3
+	println(coinChange(c1, a1))
+	println(coinChangeRecursiveSolution(c1, a1))
 	// Expecting -1
-	fmt.Println(coinChange(coins2, amount2))
+	println(coinChange(c2, a2))
+	println(coinChangeRecursiveSolution(c2, a2))
 	// Expecting 0
-	fmt.Println(coinChange(coins3, amount3))
+	println(coinChange(c3, a3))
+	println(coinChangeRecursiveSolution(c3, a3))
 	// Expecting 1
-	fmt.Println(coinChange(coins4, amount4))
+	println(coinChange(c4, a4))
+	println(coinChangeRecursiveSolution(c4, a4))
 	// Expecting 2
-	fmt.Println(coinChange(coins5, amount5))
+	println(coinChange(c5, a5))
+	println(coinChangeRecursiveSolution(c5, a5))
 }
-
-var f []int
 
 func coinChange(coins []int, amount int) int {
-	if amount == 0 {
-		return 0
+	m := len(coins)
+	n := amount
+	dp := make([]int, n+1)
+	for j := 1; j <= n; j++ {
+		dp[j] = -1
 	}
 
-	if len(coins) == 0 {
-		return -1
+	for i := 0; i < m; i++ {
+		for j := coins[i]; j <= n; j++ {
+			if dp[j-coins[i]] == -1 {
+				continue
+			}
+
+			if dp[j] == -1 {
+				dp[j] = dp[j-coins[i]] + 1
+			} else {
+				dp[j] = min(dp[j], dp[j-coins[i]]+1)
+			}
+		}
 	}
 
-	f = make([]int, amount)
-
-	return coinChangeRec(coins, amount)
+	return dp[n]
 }
 
-func coinChangeRec(coins []int, rem int) int {
-	if rem == 0 {
-		return 0
+func min(x, y int) int {
+	if x < y {
+		return x
 	}
 
-	minNum := f[rem-1]
-	if minNum != 0 {
-		return minNum
-	}
-
-	minNum = 10000
-	for i := 0; i < len(coins); i++ {
-		c := coins[i]
-		if c > rem {
-			continue
-		}
-
-		subRem := rem - c
-		subMinNum := coinChangeRec(coins, subRem)
-		if subMinNum != -1 && subMinNum < minNum {
-			minNum = subMinNum
-		}
-	}
-
-	if minNum == 10000 {
-		f[rem-1] = -1
-		return -1
-	}
-
-	f[rem-1] = minNum + 1
-	return minNum + 1
+	return y
 }
