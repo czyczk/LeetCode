@@ -19,6 +19,7 @@ func combine(n, k int) [][]int {
 	stack := []StackStuff{
 		{
 			startIdx: 0,
+			endIdx:   n - k + 1,
 		},
 	}
 
@@ -27,7 +28,7 @@ func combine(n, k int) [][]int {
 	for len(stack) != 0 {
 		lenStack := len(stack)
 		ss := &stack[lenStack-1]
-		if ss.startIdx == n {
+		if ss.startIdx >= ss.endIdx {
 			stack = stack[:lenStack-1]
 			if len(trace) == 0 {
 				break
@@ -46,6 +47,7 @@ func combine(n, k int) [][]int {
 		} else {
 			stack = append(stack, StackStuff{
 				startIdx: ss.startIdx,
+				endIdx:   n - k + len(trace) + 1,
 			})
 		}
 	}
@@ -55,4 +57,5 @@ func combine(n, k int) [][]int {
 
 type StackStuff struct {
 	startIdx int
+	endIdx   int
 }
