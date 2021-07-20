@@ -43,7 +43,7 @@
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
-| 131|Palindrome Partitioning|Rust|2021-03-07|Medium|★★★|
+| 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
 | 142|Linked List Cycle II|Go|2021-07-07|Medium|★★★|
@@ -163,6 +163,7 @@
 |1002|Find Common Characters|Go/Rust|2021-07-12|Easy||
 |1004|Max Consecutive Ones III|Rust|2021-02-19|Medium|★★★★|
 |1018|Binary Prefix Divisible By 5|Rust|2021-01-14|Easy||
+|1031|Maximum Sum of Two Non-Overlapping Subarrays|Rust|2021-07-21|Medium|★★★★|
 |1046|Last Stone Weight|Rust|2020-12-30|Easy||
 |1047|Remove All Adjacent Duplicates In String|Rust|2021-03-09|Easy||
 |1049|Last Stone Weight II|Go|2021-07-12|Medium|★★★|
