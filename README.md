@@ -36,6 +36,7 @@
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
 |  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
+|  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
