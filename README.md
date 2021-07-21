@@ -32,6 +32,7 @@
 |  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
 |  76|Minimum Window Substring|Go|2021-06-30|Hard|★★|
 |  77|Combinations|Go|2021-07-18|Medium|★|
+|  78|Subsets|Go|2021-07-22|Medium|★|
 |  79|Word Search|Go|2021-04-16|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
