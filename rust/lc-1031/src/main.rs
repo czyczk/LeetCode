@@ -1,5 +1,6 @@
 mod solution;
 
+use solution::dp;
 use solution::fast;
 use solution::window_n2;
 
@@ -12,17 +13,29 @@ fn main() {
         20,
         window_n2::Solution::max_sum_two_no_overlap(n1.clone(), f1, s1)
     );
-    assert_eq!(20, fast::Solution::max_sum_two_no_overlap(n1, f1, s1));
+    assert_eq!(
+        20,
+        fast::Solution::max_sum_two_no_overlap(n1.clone(), f1, s1)
+    );
+    assert_eq!(20, dp::Solution::max_sum_two_no_overlap(n1, f1, s1));
 
     assert_eq!(
         29,
         window_n2::Solution::max_sum_two_no_overlap(n2.clone(), f2, s2)
     );
-    assert_eq!(29, fast::Solution::max_sum_two_no_overlap(n2, f2, s2));
+    assert_eq!(
+        29,
+        fast::Solution::max_sum_two_no_overlap(n2.clone(), f2, s2)
+    );
+    assert_eq!(29, dp::Solution::max_sum_two_no_overlap(n2, f2, s2));
 
     assert_eq!(
         31,
         window_n2::Solution::max_sum_two_no_overlap(n3.clone(), f3, s3)
     );
-    assert_eq!(31, fast::Solution::max_sum_two_no_overlap(n3, f3, s3));
+    assert_eq!(
+        31,
+        fast::Solution::max_sum_two_no_overlap(n3.clone(), f3, s3)
+    );
+    assert_eq!(31, dp::Solution::max_sum_two_no_overlap(n3, f3, s3));
 }
