@@ -36,6 +36,7 @@
 |  79|Word Search|Go|2021-04-16|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
+|  90|Subsets II|Go|2021-07-22|Medium|★|
 |  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
 |  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
