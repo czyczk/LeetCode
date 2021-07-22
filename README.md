@@ -105,6 +105,7 @@
 | 474|Ones and Zeroes|Go|2021-07-15|Medium|★★★|
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
+| 491|Increasing Subsequences|Go|2021-07-23|Medium|★★★|
 | 493|Reverse Pairs|Java|✖|Hard||
 | 494|Target Sum|Go|2021-07-13|Medium|★★★★|
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
