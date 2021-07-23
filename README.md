@@ -19,6 +19,7 @@
 |  39|Combination Sum|Go/Rust|2021-07-18|Medium|★★★|
 |  40|Combination Sum II|Go/Rust|2021-07-18|Medium|★★★|
 |  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
+|  46|Permutations|Go/Rust|2021-07-23|Medium|★|
 |  48|Rotate Image|Rust|2020-12-19|Medium||
 |  49|Group Anagrams|Go/Rust|2020-12-14|Medium||
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
