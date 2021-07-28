@@ -221,6 +221,7 @@
 |lcof-22|链表中倒数第k个节点|Go|2021-05-03|Easy||
 |lcof-24|反转链表|Go|2021-07-27|Easy||
 |lcof-40|最小的k个数|Go|2021-07-26|Easy|★★★|
+|lcof-42|连续子数组的最大和|Java|2021-07-29|Easy|★|
 |lcof-58-II|左旋转字符串|Rust|2021-06-21|Easy||
 
 ## LeetCode 程序员面试金典 solutions
