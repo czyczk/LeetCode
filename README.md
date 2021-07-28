@@ -76,7 +76,7 @@
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 232|Implement Queue using Stacks|Rust|2021-03-05|Easy|★|
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
-| 239|Sliding Window Maximum|Go/Rust|2021-01-02|Hard|★★|
+| 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
 | 242|Valid Anagram|Go|2021-07-08|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
 | 290|Word Pattern|Rust|2020-12-16|Easy||
