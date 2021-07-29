@@ -11,6 +11,7 @@
 |  15|3Sum|Go|2021-06-27|Medium|★★★|
 |  17|Letter Combinations of a Phone Number|Go|2021-07-19|Medium|★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
+|  21|Merge Two Sorted Lists|Java|2021-07-29|Easy||
 |  25|Reverse Nodes in k-Group|Go|2021-07-27|Hard|★★★|
 |  26|Remove Duplicates from Sorted Array|Rust|2021-06-25|Easy||
 |  27|Remove Element|Go|2021-06-17|Easy||
