@@ -126,7 +126,7 @@
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
-| 583|Delete Operation for Two Strings|Rust|2021-06-21|Medium|★★★★|
+| 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
