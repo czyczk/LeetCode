@@ -32,7 +32,7 @@
 |  62|Unique Paths|Go/Java/Rust|2020-12-09|Medium||
 |  63|Unique Paths II|Go|2021-07-06|Medium|★|
 |  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
-|  72|Edit Distance|Java/Rust|2021-05-13|Hard|★★★|
+|  72|Edit Distance|Go/Java/Rust|2021-05-13|Hard|★★★|
 |  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
 |  75|Sort Colors|Java|2021-07-29|Medium|★★|
 |  76|Minimum Window Substring|Go|2021-06-30|Hard|★★|
