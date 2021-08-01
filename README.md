@@ -94,6 +94,7 @@
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
 | 341|Flatten Nested List Iterator|Rust|2021-03-23|Medium|★|
 | 343|Integer Break|Go|2021-04-23|Medium|★★★|
+| 347|Top K Frequent Elements|Java/Rust|2021-08-01|Medium|★|
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Go/Rust|2020-12-12|Medium|★|
 | 377|Combination Sum IV|Go|2021-07-18|Medium|★★|
