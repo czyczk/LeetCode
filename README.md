@@ -44,6 +44,7 @@
 |  90|Subsets II|Go|2021-07-22|Medium|★|
 |  92|Reverse Linked List II|Go|2021-03-19|Medium|★|
 |  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
+|  94|Binary Tree Inorder Traversal|Go|2021-08-02|Easy||
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
