@@ -81,6 +81,7 @@
 | 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
 | 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
 | 224|Basic Calculator|Rust|2021-03-10|Hard|★★★|
+| 226|Invert Binary Tree|Java|2021-08-02|Easy||
 | 227|Basic Calculator II|Rust|2021-03-12|Medium|★★★|
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 232|Implement Queue using Stacks|Rust|2021-03-05|Easy|★|
