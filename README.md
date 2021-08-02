@@ -137,6 +137,7 @@
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
+| 637|Average of Levels in Binary Tree|Java|2021-08-02|Easy||
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
