@@ -55,7 +55,7 @@
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
 | 121|Best Time to Buy and Sell Stock|Java|2021-08-04|Easy||
 | 122|Best Time to Buy and Sell Stock II|Java|2021-08-04|Easy|★|
-| 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
+| 123|Best Time to Buy and Sell Stock III|Java/Rust|2021-01-09|Hard|★★★|
 | 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
