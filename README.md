@@ -156,7 +156,7 @@
 | 704|Binary Search|Rust|2021-06-25|Easy||
 | 705|Design HashSet|Rust|2021-03-13|Easy||
 | 706|Design HashMap|Rust|2021-03-14|Easy||
-| 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
+| 714|Best Time to Buy and Sell Stock with Transaction Fee|Java/Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
