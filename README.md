@@ -46,6 +46,7 @@
 |  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
 |  94|Binary Tree Inorder Traversal|Go|2021-08-02|Easy||
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
+| 100|Same Tree|Java|2021-08-08|Easy||
 | 101|Symmetric Tree|Java|2021-08-08|Easy|★|
 | 102|Binary Tree Level Order Traversal|Go|2021-08-02|Medium||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
