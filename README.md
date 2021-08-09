@@ -10,6 +10,7 @@
 |   7|Reverse Integer|Go|2021-07-15|Easy|★|
 |  15|3Sum|C#/Go|2021-06-27|Medium|★★★|
 |  17|Letter Combinations of a Phone Number|Go|2021-07-19|Medium|★★|
+|  18|4Sum|Rust|2021-08-09|Medium|★★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  21|Merge Two Sorted Lists|Java|2021-07-29|Easy||
 |  25|Reverse Nodes in k-Group|Go|2021-07-27|Hard|★★★|
