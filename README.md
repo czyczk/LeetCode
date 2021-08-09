@@ -140,6 +140,7 @@
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
+| 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
