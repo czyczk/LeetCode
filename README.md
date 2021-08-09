@@ -199,6 +199,7 @@
 |1049|Last Stone Weight II|Go|2021-07-12|Medium|★★★|
 |1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
+|1137|N-th Tribonacci Number|Rust|2021-08-09|Easy||
 |1178|Number of Valid Words for Each Puzzle|C#/Rust|2021-02-26|Hard|★★★|
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
