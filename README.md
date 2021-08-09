@@ -245,6 +245,7 @@
 |lcof-40|最小的k个数|Go|2021-07-26|Easy|★★★|
 |lcof-42|连续子数组的最大和|Java|2021-07-29|Easy|★|
 |lcof-58-II|左旋转字符串|Rust|2021-06-21|Easy||
+|lcof-II-47|二叉树剪枝|Go|2021-08-09|Medium|★|
 
 ## LeetCode 程序员面试金典 solutions
 
