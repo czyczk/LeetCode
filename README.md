@@ -10,6 +10,7 @@
 |   7|Reverse Integer|Go|2021-07-15|Easy|★|
 |  15|3Sum|C#/Go|2021-06-27|Medium|★★★|
 |  17|Letter Combinations of a Phone Number|Go|2021-07-19|Medium|★★|
+|  18|4Sum|Rust|2021-08-09|Medium|★★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  21|Merge Two Sorted Lists|Java|2021-07-29|Easy||
 |  25|Reverse Nodes in k-Group|Go|2021-07-27|Hard|★★★|
@@ -46,6 +47,8 @@
 |  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
 |  94|Binary Tree Inorder Traversal|Go|2021-08-02|Easy||
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
+| 100|Same Tree|Java|2021-08-08|Easy||
+| 101|Symmetric Tree|Java|2021-08-08|Easy|★|
 | 102|Binary Tree Level Order Traversal|Go|2021-08-02|Medium||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
@@ -139,6 +142,7 @@
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
+| 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
@@ -168,6 +172,7 @@
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
 | 783|Minimum Distance Between BST Nodes|Go|2021-04-13|Easy|★★★|
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
+| 814|Binary Tree Pruning|Go|2021-08-09|Medium|★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
 | 832|Flipping an Image|Rust|2021-02-24|Easy||
 | 839|Similar String Groups|Go|2021-01-31|Hard||
@@ -197,6 +202,7 @@
 |1049|Last Stone Weight II|Go|2021-07-12|Medium|★★★|
 |1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
+|1137|N-th Tribonacci Number|Rust|2021-08-09|Easy||
 |1178|Number of Valid Words for Each Puzzle|C#/Rust|2021-02-26|Hard|★★★|
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
@@ -241,6 +247,7 @@
 |lcof-40|最小的k个数|Go|2021-07-26|Easy|★★★|
 |lcof-42|连续子数组的最大和|Java|2021-07-29|Easy|★|
 |lcof-58-II|左旋转字符串|Rust|2021-06-21|Easy||
+|lcof-II-47|二叉树剪枝|Go|2021-08-09|Medium|★|
 
 ## LeetCode 程序员面试金典 solutions
 
