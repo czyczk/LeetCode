@@ -96,6 +96,7 @@
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
 | 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
 | 242|Valid Anagram|Go|2021-07-08|Easy||
+| 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
