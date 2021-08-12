@@ -140,6 +140,7 @@
 | 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
 | 541|Reverse String II|Rust|2021-06-18|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
+| 559|Maximum Depth of N-ary Tree|2021-08-12|Easy||
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
