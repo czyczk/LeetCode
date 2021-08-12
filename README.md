@@ -223,7 +223,7 @@
 
 |No.    |Title|Solution|Date|Difficulty|Struggle|
 |-------|-----|--------|----|----------|--------|
-|lcof-03|数组中重复的数字|Go/Rust|2021-01-05|Easy||
+|lcof-03|数组中重复的数字|Go/Java/Rust|2021-01-05|Easy||
 |lcof-04|二维数组中的查找|Go|2021-04-12|Medium|★★|
 |lcof-05|替换空格|Go|2021-04-13|Easy||
 |lcof-06|从尾到头打印链码|Go|2021-04-13|Easy||
