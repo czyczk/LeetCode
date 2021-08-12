@@ -86,7 +86,7 @@
 | 216|Combination Sum III|Go|2021-07-19|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
-| 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
+| 222|Count Complete Tree Nodes|Go/Java|2020-11-24|Medium|★★★|
 | 224|Basic Calculator|Rust|2021-03-10|Hard|★★★|
 | 226|Invert Binary Tree|Java|2021-08-02|Easy||
 | 227|Basic Calculator II|Rust|2021-03-12|Medium|★★★|
