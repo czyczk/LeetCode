@@ -54,6 +54,7 @@
 | 104|Maximum Depth of Binary Tree|Java|2021-08-12|Easy||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
 | 107|Binary Tree Level Order Traversal II|Go|2021-08-02|Medium||
+| 110|Balanced Binary Tree|Go|2021-08-12|Easy|★|
 | 111|Minimum Depth of Binary Tree|Java|2021-08-12|Easy||
 | 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
