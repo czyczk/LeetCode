@@ -51,6 +51,7 @@
 | 101|Symmetric Tree|Java|2021-08-08|Easy|★|
 | 102|Binary Tree Level Order Traversal|Go|2021-08-02|Medium||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
+| 104|Maximum Depth of Binary Tree|Java|2021-08-12|Easy||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
 | 107|Binary Tree Level Order Traversal II|Go|2021-08-02|Medium||
 | 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
