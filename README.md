@@ -6,6 +6,7 @@
 |----|-----|--------|----|----------|--------|
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
 |   2|Add Two Numbers|Go/Kotlin|2017-11-28|Medium||
+|   3|Longest Substring Without Repeating Characters|Java|2021-08-14|Medium|★★|
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
 |   7|Reverse Integer|Go|2021-07-15|Easy|★|
 |  15|3Sum|C#/Go|2021-06-27|Medium|★★★|
