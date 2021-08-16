@@ -54,6 +54,7 @@
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
 | 104|Maximum Depth of Binary Tree|Java|2021-08-12|Easy||
 | 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
+| 106|Construct Binary Tree from Inorder and Postorder Traversal|Go|2021-08-16|Medium|★★|
 | 107|Binary Tree Level Order Traversal II|Go|2021-08-02|Medium||
 | 110|Balanced Binary Tree|Go|2021-08-12|Easy|★|
 | 111|Minimum Depth of Binary Tree|Java|2021-08-12|Easy||
