@@ -162,6 +162,7 @@
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
+| 654|Maximum Binary Tree|Go|2021-08-18|Medium|★|
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
 | 673|Number of Longest Increasing Subsequence|Go|2021-07-27|Medium|★★★|
