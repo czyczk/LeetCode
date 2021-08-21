@@ -172,6 +172,7 @@
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 697|Degree of an Array|Go/Rust|2021-02-20|Easy||
+| 700|Search in a Binary Search Tree|Java|2021-08-22|Easy||
 | 703|Kth Largest Element in a Stream|Rust|2021-02-11|Easy||
 | 704|Binary Search|Rust|2021-06-25|Easy||
 | 705|Design HashSet|Rust|2021-03-13|Easy||
