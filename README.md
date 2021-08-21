@@ -187,6 +187,7 @@
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
 | 783|Minimum Distance Between BST Nodes|Go|2021-04-13|Easy|★★★|
+| 789|Escape The Ghosts|Go|2021-08-22|Medium||
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
 | 814|Binary Tree Pruning|Go|2021-08-09|Medium|★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
