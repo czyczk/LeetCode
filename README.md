@@ -234,6 +234,7 @@
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
 |1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
+|1646|Get Maximum in Generated Array|Rust|2021-08-24|Easy|★★★|
 
 ## LeetCode 剑指 Offer solutions
 
