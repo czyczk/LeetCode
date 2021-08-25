@@ -200,6 +200,7 @@
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 867|Transpose Matrix|Rust|2021-02-25|Easy||
+| 881|Boats to Save People|Rust|2021-08-26|Medium|★|
 | 888|Fair Candy Swap|Rust|2021-02-01|Easy||
 | 896|Monotonic Array|C#/Rust|2021-02-28|Easy||
 | 901|Online Stock Span|Go/Rust|2021-03-22|Medium|★★★|
