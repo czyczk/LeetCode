@@ -6,10 +6,12 @@
 |----|-----|--------|----|----------|--------|
 |   1|Two Sum|Kotlin|2017-11-25|Easy||
 |   2|Add Two Numbers|Go/Kotlin|2017-11-28|Medium||
+|   3|Longest Substring Without Repeating Characters|Java|2021-08-14|Medium|★★|
 |   5|Longest Palindromic Substring|Rust|2021-03-08|Medium|★★★★|
 |   7|Reverse Integer|Go|2021-07-15|Easy|★|
 |  15|3Sum|C#/Go|2021-06-27|Medium|★★★|
 |  17|Letter Combinations of a Phone Number|Go|2021-07-19|Medium|★★|
+|  18|4Sum|Rust|2021-08-09|Medium|★★★|
 |  19|Remove Nth Node From End of List|Go|2021-04-11|Medium|★★|
 |  21|Merge Two Sorted Lists|Java|2021-07-29|Easy||
 |  25|Reverse Nodes in k-Group|Go|2021-07-27|Hard|★★★|
@@ -46,14 +48,24 @@
 |  93|Restore IP Addresses|Go|2021-07-21|Medium|★★★|
 |  94|Binary Tree Inorder Traversal|Go|2021-08-02|Easy||
 |  96|Unique Binary Search Trees|Go|2021-07-11|Medium|★★★|
+| 100|Same Tree|Java|2021-08-08|Easy||
+| 101|Symmetric Tree|Java|2021-08-08|Easy|★|
 | 102|Binary Tree Level Order Traversal|Go|2021-08-02|Medium||
 | 103|Binary Tree Zigzag Level Order Traversal|Java|2020-12-22|Medium||
-| 105|Construct Binary Tree from Preorder and Inorder Traversal|Go|2021-04-13|Medium|★★★|
+| 104|Maximum Depth of Binary Tree|Java|2021-08-12|Easy||
+| 105|Construct Binary Tree from Preorder and Inorder Traversal|Go/Java|2021-04-13|Medium|★★★|
+| 106|Construct Binary Tree from Inorder and Postorder Traversal|Go|2021-08-16|Medium|★★|
 | 107|Binary Tree Level Order Traversal II|Go|2021-08-02|Medium||
+| 110|Balanced Binary Tree|Go|2021-08-12|Easy|★|
+| 111|Minimum Depth of Binary Tree|Java|2021-08-12|Easy||
+| 112|Path Sum|Go|2021-08-12|Easy||
+| 113|Path Sum II|Go|2021-08-12|Medium||
 | 115|Distinct Subsequences|Rust|2021-03-17|Hard|★★★★|
 | 118|Pascal's Triangle|Java/Rust|2020-12-07|Easy||
 | 119|Pascal's Triangle II|Go|2021-02-12|Easy||
-| 123|Best Time to Buy and Sell Stock III|Rust|2021-01-09|Hard|★★★|
+| 121|Best Time to Buy and Sell Stock|Java|2021-08-04|Easy||
+| 122|Best Time to Buy and Sell Stock II|Java|2021-08-04|Easy|★|
+| 123|Best Time to Buy and Sell Stock III|Java/Rust|2021-01-09|Hard|★★★|
 | 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
@@ -67,10 +79,10 @@
 | 160|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 168|Excel Sheet Column Title|Go|2021-07-27|Easy|★★|
-| 188|Best Time to Buy and Sell Stock IV|Rust|2020-12-28※|Hard|★★★★★|
+| 188|Best Time to Buy and Sell Stock IV|Java/Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
 | 191|Number of 1 Bits|Rust|2021-03-24|Easy|★|
-| 199|Binary Tree Right Side View|2021-07-31|Medium|★★|
+| 199|Binary Tree Right Side View|Java|2021-07-31|Medium|★★|
 | 203|Remove Linked List Elements|Go|2021-06-05|Easy||
 | 205|Isomorphic Strings|Rust|2020-12-27|Easy||
 | 206|Reverse Linked List|Go|2021-03-18|Easy|★|
@@ -79,7 +91,7 @@
 | 216|Combination Sum III|Go|2021-07-19|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
-| 222|Count Complete Tree Nodes|Java|2020-11-24|Medium|★★★|
+| 222|Count Complete Tree Nodes|Go/Java|2020-11-24|Medium|★★★|
 | 224|Basic Calculator|Rust|2021-03-10|Hard|★★★|
 | 226|Invert Binary Tree|Java|2021-08-02|Easy||
 | 227|Basic Calculator II|Rust|2021-03-12|Medium|★★★|
@@ -88,10 +100,12 @@
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
 | 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
 | 242|Valid Anagram|Go|2021-07-08|Easy||
+| 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
 | 304|Range Sum Query 2D - Immutable|Rust|2021-03-02|Medium||
+| 309|Best Time to Buy and Sell Stock with Cooldown|Java|2021-08-05|Medium|★★★|
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
 | 322|Coin Change|Go/Rust|2021-06-16|Medium|★★★|
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
@@ -100,6 +114,7 @@
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
 | 341|Flatten Nested List Iterator|Rust|2021-03-23|Medium|★|
 | 343|Integer Break|Go|2021-04-23|Medium|★★★|
+| 345|Reverse Vowels of a String|Rust|2021-08-19|Easy||
 | 347|Top K Frequent Elements|Java/Rust|2021-08-01|Medium|★|
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 376|Wiggle Subsequence|Go/Rust|2020-12-12|Medium|★|
@@ -110,6 +125,8 @@
 | 389|Find the Difference|Rust|2020-12-18|Easy||
 | 395|Longest Substring with At Least K Repeating Characters|Go|2021-02-27|Medium|★★★|
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
+| 404|Sum of Left Leaves|Go|2021-08-12|Easy||
+| 413|Arithmetic Slices|Kotlin|2021-08-10|Medium||
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
@@ -119,6 +136,7 @@
 | 455|Assign Cookies|Go/Rust|2020-12-25|Easy||
 | 460|LFU Cache|Java/Rust|2021-08-21|Hard|★★★★|
 | 459|Repeated Substring Pattern|Go|2021-05-14|Easy|★★★|
+| 460|LFU Cache|Java|2021-08-21|Hard|★★★|
 | 474|Ones and Zeroes|Go|2021-07-15|Medium|★★★|
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
@@ -128,33 +146,39 @@
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 513|Find Bottom Left Tree Value|Go|2021-07-31|Medium|★★|
-| 516|Longest Palindromic Subsequence|Rust|2021-06-23|Medium|★★★|
+| 516|Longest Palindromic Subsequence|Java/Rust|2021-06-23|Medium|★★★|
 | 518|Coin Change 2|Go/Rust|2021-06-16|Medium|★★★|
 | 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
 | 541|Reverse String II|Rust|2021-06-18|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
+| 559|Maximum Depth of N-ary Tree|2021-08-12|Easy||
 | 561|Array Partition I|Rust|2021-02-16|Easy||
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
+| 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
+| 617|Merge Two Binary Trees|Java|2021-08-19|Easy||
+| 622|Design Circular Queue|Java|2021-08-12|Medium||
 | 628|Maximum Product of Three Numbers|Go|2021-01-20|Easy|★|
 | 637|Average of Levels in Binary Tree|Java|2021-08-02|Easy||
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
+| 654|Maximum Binary Tree|Go|2021-08-18|Medium|★|
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
 | 673|Number of Longest Increasing Subsequence|Go|2021-07-27|Medium|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 697|Degree of an Array|Go/Rust|2021-02-20|Easy||
+| 700|Search in a Binary Search Tree|Java|2021-08-22|Easy||
 | 703|Kth Largest Element in a Stream|Rust|2021-02-11|Easy||
 | 704|Binary Search|Rust|2021-06-25|Easy||
 | 705|Design HashSet|Rust|2021-03-13|Easy||
 | 706|Design HashMap|Rust|2021-03-14|Easy||
-| 714|Best Time to Buy and Sell Stock with Transaction Fee|Rust|2020-12-17|Medium|★|
+| 714|Best Time to Buy and Sell Stock with Transaction Fee|Java/Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
@@ -164,7 +188,11 @@
 | 767|Reorganize String|Java|2020-11-30|Medium|★|
 | 778|Swim in Rising Water|Go|2021-01-30|Hard||
 | 783|Minimum Distance Between BST Nodes|Go|2021-04-13|Easy|★★★|
+| 787|Cheapest Flights Within K Stops|Rust|2021-08-24|Medium|★★★|
+| 789|Escape The Ghosts|Go|2021-08-22|Medium||
+| 797|All Paths From Source to Target|Rust|2021-08-25|Medium|★|
 | 803|Bricks Falling When Hit|Go|2021-01-17|Hard|★★★|
+| 814|Binary Tree Pruning|Go|2021-08-09|Medium|★|
 | 830|Positions of Large Groups|Go|2021-01-05|Easy||
 | 832|Flipping an Image|Rust|2021-02-24|Easy||
 | 839|Similar String Groups|Go|2021-01-31|Hard||
@@ -173,6 +201,7 @@
 | 860|Lemonade Change|Java/Rust|2020-12-10|Easy||
 | 861|Score After Flipping Matrix|Java/Rust|2020-12-07|Easy||
 | 867|Transpose Matrix|Rust|2021-02-25|Easy||
+| 881|Boats to Save People|Rust|2021-08-26|Medium|★|
 | 888|Fair Candy Swap|Rust|2021-02-01|Easy||
 | 896|Monotonic Array|C#/Rust|2021-02-28|Easy||
 | 901|Online Stock Span|Go/Rust|2021-03-22|Medium|★★★|
@@ -194,6 +223,7 @@
 |1049|Last Stone Weight II|Go|2021-07-12|Medium|★★★|
 |1052|Grumpy Bookstore Owner|Go/Rust|2021-02-23|Medium||
 |1128|Number of Equivalent Domino Pairs|Rust|2021-01-26|Easy||
+|1137|N-th Tribonacci Number|Rust|2021-08-09|Easy||
 |1178|Number of Valid Words for Each Puzzle|C#/Rust|2021-02-26|Hard|★★★|
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
@@ -206,14 +236,16 @@
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1579|Remove Max Number of Edges to Keep Graph Fully Traversable|Go|2021-01-27|Hard|★|
 |1584|Min Cost to Connect All Points|Go|2021-01-19|Medium|★|
+|1588|Sum of All Odd Length Subarrays|Rust|2021-08-30|Easy|★★★★|
 |1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
+|1646|Get Maximum in Generated Array|Rust|2021-08-24|Easy|★★★|
 
 ## LeetCode 剑指 Offer solutions
 
 |No.    |Title|Solution|Date|Difficulty|Struggle|
 |-------|-----|--------|----|----------|--------|
-|lcof-03|数组中重复的数字|Go/Rust|2021-01-05|Easy||
+|lcof-03|数组中重复的数字|Go/Java/Rust|2021-01-05|Easy||
 |lcof-04|二维数组中的查找|Go|2021-04-12|Medium|★★|
 |lcof-05|替换空格|Go|2021-04-13|Easy||
 |lcof-06|从尾到头打印链码|Go|2021-04-13|Easy||
@@ -238,6 +270,7 @@
 |lcof-40|最小的k个数|Go|2021-07-26|Easy|★★★|
 |lcof-42|连续子数组的最大和|Java|2021-07-29|Easy|★|
 |lcof-58-II|左旋转字符串|Rust|2021-06-21|Easy||
+|lcof-II-47|二叉树剪枝|Go|2021-08-09|Medium|★|
 
 ## LeetCode 程序员面试金典 solutions
 
