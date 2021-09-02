@@ -41,6 +41,7 @@
 |  77|Combinations|Go|2021-07-18|Medium|★|
 |  78|Subsets|Go|2021-07-22|Medium|★|
 |  79|Word Search|Go|2021-04-16|Medium|★★|
+|  82|Remove Duplicates from Sorted List II|Go|2021-09-02|Medium|★★|
 |  85|Maximal Rectangle|Rust|✖|Hard||
 |  86|Partition List|Go|2021-01-03|Easy|★|
 |  90|Subsets II|Go|2021-07-22|Medium|★|
