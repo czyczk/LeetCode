@@ -279,5 +279,5 @@
 |No.       |Title|Solution|Date|Difficulty|Struggle|
 |----------|-----|--------|----|----------|--------|
 |lcci-02.07|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
-|lcci-17.14|Smallest K|Go|2021-07-24|Medium|★★★|
+|lcci-17.14|Smallest K|Go/Rust|2021-07-24|Medium|★★★|
 
