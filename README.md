@@ -139,6 +139,7 @@
 | 455|Assign Cookies|Go/Rust|2020-12-25|Easy||
 | 459|Repeated Substring Pattern|Go|2021-05-14|Easy|★★★|
 | 460|LFU Cache|Java/Rust|2021-08-21|Hard|★★★★|
+| 470|Implement Rand10() Using Rand7()|Rust|2021-09-05|Medium|★★|
 | 474|Ones and Zeroes|Go|2021-07-15|Medium|★★★|
 | 480|Sliding Window Median|Rust|2021-02-03|Hard|★★★★★|
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
