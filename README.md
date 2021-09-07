@@ -100,6 +100,7 @@
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
 | 232|Implement Queue using Stacks|Rust|2021-03-05|Easy|★|
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
+| 235|Lowest Common Ancestor of a Binary Search Tree|Go|2021-09-07|Easy|★★★|
 | 236|Lowest Common Ancestor of a Binary Tree|Go|2021-09-07|Medium|★★★|
 | 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
 | 242|Valid Anagram|Go|2021-07-08|Easy||
