@@ -233,6 +233,7 @@
 |1202|Smallest String With Swaps|Rust|2021-01-11|Medium|★|
 |1203|Sort Items by Groups Respecting Dependencies|Rust|2021-01-21|Hard|★★★★★|
 |1208|Get Equal Substring Within Budget|Go/Rust|2021-02-05|Medium||
+|1221|Split a String in Balanced Strings|Go|2021-09-07|Easy||
 |1232|Check If It Is a Straight Line|Go|2021-01-17|Easy|☆|
 |1319|Number of Operations to Make Network Connected|Rust|2021-01-24|Medium||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
