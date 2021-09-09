@@ -67,7 +67,7 @@
 | 121|Best Time to Buy and Sell Stock|Java|2021-08-04|Easy||
 | 122|Best Time to Buy and Sell Stock II|Java|2021-08-04|Easy|★|
 | 123|Best Time to Buy and Sell Stock III|Java/Rust|2021-01-09|Hard|★★★|
-| 128|Longest Consecutive Sequence|Go|2021-09-09|Medium|★★★|
+| 128|Longest Consecutive Sequence|Go/Rust|2021-09-09|Medium|★★★|
 | 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
