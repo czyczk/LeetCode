@@ -248,6 +248,7 @@
 |1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
 |1646|Get Maximum in Generated Array|Rust|2021-08-24|Easy|★★★|
+|1894|Find the Student that Will Replace the Chalk|Rust|2021-09-11|Medium|★|
 
 ## LeetCode 剑指 Offer solutions
 
