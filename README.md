@@ -72,6 +72,7 @@
 | 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
+| 139|Word Break|Go|2021-09-12|Medium|★★★|
 | 142|Linked List Cycle II|Go|2021-07-07|Medium|★★★|
 | 144|Binary Tree Preorder Traversal|Go|2021-08-01|Easy||
 | 145|Binary Tree Postorder Traversal|Go|2021-08-01|Easy||
