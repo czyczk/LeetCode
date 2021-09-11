@@ -165,6 +165,7 @@
 | 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
+| 600|Non-negative Integers without Consecutive Ones|Rust|2021-09-11※|Hard|★★★★|
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
 | 617|Merge Two Binary Trees|Go/Java|2021-08-19|Easy||
 | 622|Design Circular Queue|Java|2021-08-12|Medium||
@@ -271,7 +272,7 @@
 |lcof-16|数值的整数次方|Go|2021-04-20|Medium|★|
 |lcof-17|打印从1到最大的n位数|Go|2021-04-23|Easy||
 |lcof-18|删除链表的节点|Go|2021-04-23|Easy||
-|lcof-19|正则表达式匹配|Go|2021-04-24|Hard※|★★★★★|
+|lcof-19|正则表达式匹配|Go|2021-04-24※|Hard|★★★★★|
 |lcof-20|表示数值的字符串|Go|2021-04-25|Medium|★★|
 |lcof-21|调整数组顺序使奇数位于偶数前面|Go|2021-05-02|Easy||
 |lcof-22|链表中倒数第k个节点|Go|2021-05-03|Easy||
