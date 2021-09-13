@@ -139,6 +139,7 @@
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
 | 438|Find All Anagrams in a String|Go|2021-07-08|Medium||
+| 447|Number of Boomerangs|Rust|2021-09-13|Medium|★★|
 | 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Go/Rust|2020-12-25|Easy||
