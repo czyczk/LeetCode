@@ -157,6 +157,7 @@
 | 513|Find Bottom Left Tree Value|Go|2021-07-31|Medium|★★|
 | 516|Longest Palindromic Subsequence|Java/Rust|2021-06-23|Medium|★★★|
 | 518|Coin Change 2|Go/Rust|2021-06-16|Medium|★★★|
+| 524|Longest Word in Dictionary through Deleting|Go|2021-09-14|Medium|★★★|
 | 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
 | 541|Reverse String II|Rust|2021-06-18|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
