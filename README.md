@@ -81,6 +81,7 @@
 | 151|Reverse Words in a String|Go|2021-06-17|Medium|★★|
 | 154|Find Minimum in Rotated Sorted Array II|Go|2021-04-15|Easy||
 | 160|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
+| 162|Find Peak Element|Rust|2021-09-15|Medium|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 165|Compare Version Numbers|Rust|2021-09-01|Medium||
 | 168|Excel Sheet Column Title|Go|2021-07-27|Easy|★★|
