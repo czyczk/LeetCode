@@ -94,6 +94,7 @@
 | 206|Reverse Linked List|Go|2021-03-18|Easy|★|
 | 209|Minimum Size Subarray Sum|Rust|2021-06-30|Medium|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
+| 212|Word Search II|Go|2021-09-16|Hard|★★★★|
 | 216|Combination Sum III|Go|2021-07-19|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
