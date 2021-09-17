@@ -20,6 +20,7 @@
 |  28|Implement strStr()|Go/Java/Rust|2021-05-14|Easy|★★★|
 |  34|Find First and Last Position of Element in Sorted Array|Go|2021-06-26|Medium||
 |  35|Search Insert Position|Go|2021-06-26|Easy||
+|  36|Valid Sudoku|Rust|2021-09-17|Medium||
 |  39|Combination Sum|Go/Rust|2021-07-18|Medium|★★★|
 |  40|Combination Sum II|Go/Rust|2021-07-18|Medium|★★★|
 |  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
