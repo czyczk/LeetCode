@@ -113,6 +113,7 @@
 | 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
 | 290|Word Pattern|Rust|2020-12-16|Easy||
+| 292|Nim Game|Go/Rust|2021-09-18|Easy|★|
 | 295|Find Median from Data Stream|Rust|2021-09-01|Hard|★★★|
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
 | 304|Range Sum Query 2D - Immutable|Rust|2021-03-02|Medium||
