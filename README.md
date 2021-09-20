@@ -185,7 +185,7 @@
 | 654|Maximum Binary Tree|Go|2021-08-18|Medium|★|
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
-| 673|Number of Longest Increasing Subsequence|Go|2021-07-27|Medium|★★★|
+| 673|Number of Longest Increasing Subsequence|Go/Rust|2021-07-27|Medium|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
 | 678|Valid Parenthesis String|Rust|2021-09-12|Medium|★★★|
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
