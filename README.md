@@ -31,6 +31,7 @@
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
 |  54|Spiral Matrix|Go|2021-03-15|Medium|★|
 |  55|Jump Game|Go/Rust|2021-06-25|Medium|★★|
+|  58|Length of Last Word|Rust|2021-09-21|Easy||
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Go/Java/Rust|2020-12-09|Medium||
 |  63|Unique Paths II|Go|2021-07-06|Medium|★|
