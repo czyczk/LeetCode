@@ -187,6 +187,7 @@
 | 714|Best Time to Buy and Sell Stock with Transaction Fee|Java/Rust|2020-12-17|Medium|★|
 | 721|Accounts Merge|Go|2021-01-18|Medium|★★|
 | 724|Find Pivot Index|Go|2021-01-28|Easy||
+| 725|Split Linked List in Parts|Go|2021-09-22|Medium|★★|
 | 738|Monotone Increasing Digits|Rust|2020-12-15|Medium||
 | 746|Min Cost Climbing Stairs|Go/Java/Rust|2020-12-21|Easy|★|
 | 765|Couples Holding Hands|Rust|2021-02-15|Hard|★★★|
