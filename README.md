@@ -20,6 +20,7 @@
 |  28|Implement strStr()|Go/Java/Rust|2021-05-14|Easy|★★★|
 |  34|Find First and Last Position of Element in Sorted Array|Go|2021-06-26|Medium||
 |  35|Search Insert Position|Go|2021-06-26|Easy||
+|  36|Valid Sudoku|Rust|2021-09-17|Medium||
 |  39|Combination Sum|Go/Rust|2021-07-18|Medium|★★★|
 |  40|Combination Sum II|Go/Rust|2021-07-18|Medium|★★★|
 |  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
@@ -30,9 +31,11 @@
 |  50|Pow(x, n)|Go|2021-04-23|Medium|★|
 |  54|Spiral Matrix|Go|2021-03-15|Medium|★|
 |  55|Jump Game|Go/Rust|2021-06-25|Medium|★★|
+|  58|Length of Last Word|Rust|2021-09-21|Easy||
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Go/Java/Rust|2020-12-09|Medium||
 |  63|Unique Paths II|Go|2021-07-06|Medium|★|
+|  68|Text Justification|Go|2021-09-10|Hard|★★|
 |  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
 |  72|Edit Distance|Go/Java/Rust|2021-05-13|Hard|★★★|
 |  73|Set Matrix Zeroes|Rust|2021-03-21|Medium|★★|
@@ -67,10 +70,11 @@
 | 121|Best Time to Buy and Sell Stock|Java|2021-08-04|Easy||
 | 122|Best Time to Buy and Sell Stock II|Java|2021-08-04|Easy|★|
 | 123|Best Time to Buy and Sell Stock III|Java/Rust|2021-01-09|Hard|★★★|
-| 128|Longest Consecutive Sequence|Go|2021-09-09|Medium|★★★|
+| 128|Longest Consecutive Sequence|Go/Rust|2021-09-09|Medium|★★★|
 | 131|Palindrome Partitioning|Go/Rust|2021-03-07|Medium|★★★|
 | 132|Palindrome Partitioning II|Rust|2021-03-09|Hard|★★★★|
 | 135|Candy|Go/Rust|2020-12-24|Hard|★★|
+| 139|Word Break|Go|2021-09-12|Medium|★★★|
 | 142|Linked List Cycle II|Go|2021-07-07|Medium|★★★|
 | 144|Binary Tree Preorder Traversal|Go|2021-08-01|Easy||
 | 145|Binary Tree Postorder Traversal|Go|2021-08-01|Easy||
@@ -79,6 +83,7 @@
 | 151|Reverse Words in a String|Go|2021-06-17|Medium|★★|
 | 154|Find Minimum in Rotated Sorted Array II|Go|2021-04-15|Easy||
 | 160|Intersection of Two Linked Lists|Go|2021-07-06|Easy|★|
+| 162|Find Peak Element|Rust|2021-09-15|Medium|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 165|Compare Version Numbers|Rust|2021-09-01|Medium||
 | 168|Excel Sheet Column Title|Go|2021-07-27|Easy|★★|
@@ -91,6 +96,7 @@
 | 206|Reverse Linked List|Go|2021-03-18|Easy|★|
 | 209|Minimum Size Subarray Sum|Rust|2021-06-30|Medium|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
+| 212|Word Search II|Go|2021-09-16|Hard|★★★★|
 | 216|Combination Sum III|Go|2021-07-19|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
 | 221|Maximal Square|Rust|2021-07-15|Medium|★★★|
@@ -108,6 +114,7 @@
 | 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
 | 290|Word Pattern|Rust|2020-12-16|Easy||
+| 292|Nim Game|Go/Rust|2021-09-18|Easy|★|
 | 295|Find Median from Data Stream|Rust|2021-09-01|Hard|★★★|
 | 303|Range Sum Query - Immutable|Rust|2021-03-01|Easy||
 | 304|Range Sum Query 2D - Immutable|Rust|2021-03-02|Medium||
@@ -137,6 +144,7 @@
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
 | 438|Find All Anagrams in a String|Go|2021-07-08|Medium||
+| 447|Number of Boomerangs|Rust|2021-09-13|Medium|★★|
 | 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Go/Rust|2020-12-25|Easy||
@@ -154,6 +162,7 @@
 | 513|Find Bottom Left Tree Value|Go|2021-07-31|Medium|★★|
 | 516|Longest Palindromic Subsequence|Java/Rust|2021-06-23|Medium|★★★|
 | 518|Coin Change 2|Go/Rust|2021-06-16|Medium|★★★|
+| 524|Longest Word in Dictionary through Deleting|Go|2021-09-14|Medium|★★★|
 | 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
 | 541|Reverse String II|Rust|2021-06-18|Easy||
 | 547|Number of Provinces|Rust|2021-01-07|Medium||
@@ -164,6 +173,7 @@
 | 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
 | 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
+| 600|Non-negative Integers without Consecutive Ones|Rust|2021-09-11※|Hard|★★★★|
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
 | 617|Merge Two Binary Trees|Go/Java|2021-08-19|Easy||
 | 622|Design Circular Queue|Java|2021-08-12|Medium||
@@ -172,11 +182,13 @@
 | 643|Maximum Average Subarray I|Rust|2021-02-04|Easy||
 | 647|Palindromic Substrings|Go/Rust|2021-03-08|Medium|★★★★|
 | 649|Dota2 Senate|Java/Rust|2020-12-11|Medium||
+| 650|2 Keys Keyboard|Go/Rust|2021-09-19|Medium|★★|
 | 654|Maximum Binary Tree|Go|2021-08-18|Medium|★|
 | 659|Split Array into Consecutive Subsequences|Java/Rust|2020-12-04|Medium|★★|
 | 665|Non-decreasing Array|Rust|2021-02-07|Easy|★★★|
-| 673|Number of Longest Increasing Subsequence|Go|2021-07-27|Medium|★★★|
+| 673|Number of Longest Increasing Subsequence|Go/Rust|2021-07-27|Medium|★★★|
 | 674|Logest Continuous Increasing Subsequence|Rust|2021-01-24|Easy||
+| 678|Valid Parenthesis String|Rust|2021-09-12|Medium|★★★|
 | 684|Redundant Connection|Rust|2021-01-13|Medium||
 | 697|Degree of an Array|Go/Rust|2021-02-20|Easy||
 | 700|Search in a Binary Search Tree|Java|2021-08-22|Easy||
@@ -248,6 +260,7 @@
 |1603|Design Parking System|Rust|2021-03-19|Easy||
 |1631|Path With Minimum Effort|Go|2021-01-29|Medium|★|
 |1646|Get Maximum in Generated Array|Rust|2021-08-24|Easy|★★★|
+|1894|Find the Student that Will Replace the Chalk|Rust|2021-09-11|Medium|★|
 
 ## LeetCode 剑指 Offer solutions
 
@@ -270,7 +283,7 @@
 |lcof-16|数值的整数次方|Go|2021-04-20|Medium|★|
 |lcof-17|打印从1到最大的n位数|Go|2021-04-23|Easy||
 |lcof-18|删除链表的节点|Go|2021-04-23|Easy||
-|lcof-19|正则表达式匹配|Go|2021-04-24|Hard※|★★★★★|
+|lcof-19|正则表达式匹配|Go|2021-04-24※|Hard|★★★★★|
 |lcof-20|表示数值的字符串|Go|2021-04-25|Medium|★★|
 |lcof-21|调整数组顺序使奇数位于偶数前面|Go|2021-05-02|Easy||
 |lcof-22|链表中倒数第k个节点|Go|2021-05-03|Easy||
