@@ -121,6 +121,7 @@
 | 309|Best Time to Buy and Sell Stock with Cooldown|Java|2021-08-05|Medium|★★★|
 | 316|Remove Duplicate Letters|Rust|2020-12-20|Medium|★|
 | 322|Coin Change|Go/Rust|2021-06-16|Medium|★★★|
+| 326|Power of Three|Rust|2021-09-23|Easy||
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 332|Reconstruct Itinerary|Go|2021-07-25※|Medium|★★★★|
