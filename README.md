@@ -143,6 +143,7 @@
 | 413|Arithmetic Slices|Kotlin|2021-08-10|Medium||
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
+| 430|Flatten a Multilevel Doubly Linked List|Go|2021-09-25|Medium|★★|
 | 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
 | 438|Find All Anagrams in a String|Go|2021-07-08|Medium||
 | 447|Number of Boomerangs|Rust|2021-09-13|Medium|★★|
