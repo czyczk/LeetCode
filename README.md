@@ -173,7 +173,7 @@
 | 566|Reshape the Matrix|Rust|2021-02-17|Easy||
 | 567|Permutation in String|Rust|2021-02-10|Medium|★☆|
 | 572|Subtree of Another Tree|Go/Java|2021-08-09|Easy|★★|
-| 583|Delete Operation for Two Strings|Java/Rust|2021-06-21|Medium|★★★★|
+| 583|Delete Operation for Two Strings|Go/Java/Rust|2021-06-21|Medium|★★★★|
 | 589|N-ary Tree Preorder Traversal|Java|2021-08-02|Easy||
 | 600|Non-negative Integers without Consecutive Ones|Rust|2021-09-11※|Hard|★★★★|
 | 605|Can Place Flowers|Go/Rust|2021-01-01|Easy|★★★|
