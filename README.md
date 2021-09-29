@@ -165,6 +165,7 @@
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 513|Find Bottom Left Tree Value|Go|2021-07-31|Medium|★★|
 | 516|Longest Palindromic Subsequence|Java/Rust|2021-06-23|Medium|★★★|
+| 517|Super Washing Machine|Rust|2021-09-29|Hard|★★★★|
 | 518|Coin Change 2|Go/Rust|2021-06-16|Medium|★★★|
 | 524|Longest Word in Dictionary through Deleting|Go|2021-09-14|Medium|★★★|
 | 530|Minimum Absolute Difference in BST|Go|2021-04-13|Easy|★★★|
