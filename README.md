@@ -259,6 +259,7 @@
 |1319|Number of Operations to Make Network Connected|Rust|2021-01-24|Medium||
 |1370|Increasing Decreasing String|Java|2020-11-25|Easy||
 |1423|Maximum Points You Can Obtain from Cards|Rust|2021-02-06|Medium||
+|1436|Destination City|Rust|2021-10-01|Easy||
 |1438|Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit|Go/Rust|2021-02-21|Medium|★★★★★|
 |1489|Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree|Go|2021-01-21|Hard|★★★★|
 |1579|Remove Max Number of Edges to Keep Graph Fully Traversable|Go|2021-01-27|Hard|★|
