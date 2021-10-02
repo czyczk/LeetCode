@@ -142,6 +142,7 @@
 | 395|Longest Substring with At Least K Repeating Characters|Go|2021-02-27|Medium|★★★|
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
 | 404|Sum of Left Leaves|Go|2021-08-12|Easy||
+| 405|Convert a Number to Hexadecimal|Rust|2021-10-02|Easy|★★|
 | 413|Arithmetic Slices|Kotlin|2021-08-10|Medium||
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
