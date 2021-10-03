@@ -86,6 +86,7 @@
 | 162|Find Peak Element|Rust|2021-09-15|Medium|★★|
 | 164|Maximum Gap|Java/Rust|2020-11-27|Hard|★★★★|
 | 165|Compare Version Numbers|Rust|2021-09-01|Medium||
+| 166|Fraction to Recurring Decimal|Rust|2021-10-03|Medium|★★|
 | 168|Excel Sheet Column Title|Go|2021-07-27|Easy|★★|
 | 188|Best Time to Buy and Sell Stock IV|Java/Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
