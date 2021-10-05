@@ -115,6 +115,7 @@
 | 242|Valid Anagram|Go|2021-07-08|Easy||
 | 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
+| 284|Peeking Iterator|Go|2021-10-05|Medium|★★|
 | 290|Word Pattern|Rust|2020-12-16|Easy||
 | 292|Nim Game|Go/Rust|2021-09-18|Easy|★|
 | 295|Find Median from Data Stream|Rust|2021-09-01|Hard|★★★|
