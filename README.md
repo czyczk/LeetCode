@@ -146,6 +146,7 @@
 | 404|Sum of Left Leaves|Go|2021-08-12|Easy||
 | 405|Convert a Number to Hexadecimal|Rust|2021-10-02|Easy|★★|
 | 413|Arithmetic Slices|Kotlin|2021-08-10|Medium||
+| 414|Third Maximum Number|Kotlin|2021-10-06|Easy||
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 430|Flatten a Multilevel Doubly Linked List|Go|2021-09-25|Medium|★★|
