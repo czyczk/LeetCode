@@ -150,6 +150,7 @@
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
 | 424|Longest Repeating Character Replacement|Go|2021-02-02|Medium|★★★★★|
 | 430|Flatten a Multilevel Doubly Linked List|Go|2021-09-25|Medium|★★|
+| 434|Number of Segments in a String|Kotlin|2021-10-07|Easy||
 | 435|Non-overlapping Intervals|Go/Rust|2020-12-31|Medium|★★|
 | 437|Path Sum III|Go|2021-09-28|Medium|★★★★|
 | 438|Find All Anagrams in a String|Go|2021-07-08|Medium||
