@@ -89,6 +89,7 @@
 | 165|Compare Version Numbers|Rust|2021-09-01|Medium||
 | 166|Fraction to Recurring Decimal|Rust|2021-10-03|Medium|★★|
 | 168|Excel Sheet Column Title|Go|2021-07-27|Easy|★★|
+| 187|Repeated DNA Sequences|Kotlin|2021-10-08|Medium||
 | 188|Best Time to Buy and Sell Stock IV|Java/Rust|2020-12-28※|Hard|★★★★★|
 | 189|Rotate Array|Rust|2021-01-08|Medium||
 | 191|Number of 1 Bits|Rust|2021-03-24|Easy|★|
