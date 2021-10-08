@@ -135,6 +135,7 @@
 | 343|Integer Break|Go|2021-04-23|Medium|★★★|
 | 345|Reverse Vowels of a String|Rust|2021-08-19|Easy||
 | 347|Top K Frequent Elements|Java/Rust|2021-08-01|Medium|★|
+| 352|Data Stream as Disjoint Intervals|Kotlin|2021-10-09|Hard||
 | 354|Russian Doll Envelopes|Rust|2021-03-04|Hard|★★★★|
 | 371|Sum of Two Integers|Rust|2021-09-26|Medium|★★★|
 | 376|Wiggle Subsequence|Go/Rust|2020-12-12|Medium|★|
