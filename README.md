@@ -21,6 +21,7 @@
 |  34|Find First and Last Position of Element in Sorted Array|Go|2021-06-26|Medium||
 |  35|Search Insert Position|Go|2021-06-26|Easy||
 |  36|Valid Sudoku|Rust|2021-09-17|Medium||
+|  38|Count and Say|Rust|2021-10-15|Medium||
 |  39|Combination Sum|Go/Rust|2021-07-18|Medium|★★★|
 |  40|Combination Sum II|Go/Rust|2021-07-18|Medium|★★★|
 |  45|Jump Game II|Go/Rust|2021-06-26|Medium|★★★|
