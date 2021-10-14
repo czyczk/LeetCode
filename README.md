@@ -149,6 +149,7 @@
 | 399|Evaluate Division|Rust|2021-01-06|Medium|★★★|
 | 404|Sum of Left Leaves|Go|2021-08-12|Easy||
 | 405|Convert a Number to Hexadecimal|Rust|2021-10-02|Easy|★★|
+| 412|Fizz Buzz|Rust|2021-10-13|Easy||
 | 413|Arithmetic Slices|Kotlin|2021-08-10|Medium||
 | 414|Third Maximum Number|Kotlin|2021-10-06|Easy||
 | 416|Partition Equal Subset Sum|Rust|2021-07-12|Medium|★★|
