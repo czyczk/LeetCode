@@ -110,6 +110,7 @@
 | 226|Invert Binary Tree|Java|2021-08-02|Easy||
 | 227|Basic Calculator II|Rust|2021-03-12|Medium|★★★|
 | 228|Summary Ranges|Rust|2021-01-10|Easy||
+| 230|Kth Smallest Element in a BST|Go|2021-10-18|Medium|★|
 | 232|Implement Queue using Stacks|Rust|2021-03-05|Easy|★|
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
 | 235|Lowest Common Ancestor of a Binary Search Tree|Go|2021-09-07|Easy|★★★|
