@@ -100,6 +100,7 @@
 | 206|Reverse Linked List|Go|2021-03-18|Easy|★|
 | 209|Minimum Size Subarray Sum|Rust|2021-06-30|Medium|★|
 | 210|Course Schedule II|Rust|2021-01-12|Medium|★★★|
+| 211|Design Add and Search Words Data Structure|Go|2021-10-19|Medium|★★★|
 | 212|Word Search II|Go|2021-09-16|Hard|★★★★|
 | 216|Combination Sum III|Go|2021-07-19|Medium|★★★|
 | 217|Contains Duplicate|Rust|2020-12-13|Easy||
@@ -165,6 +166,7 @@
 | 441|Arranging Coins|Rust|2021-10-10|Easy|★|
 | 447|Number of Boomerangs|Rust|2021-09-13|Medium|★★|
 | 448|Find All Numbers Disappeared in an Array|Rust|2021-02-13|Easy|★|
+| 453|Minimum Moves to Equal Array Elements|Rust|2021-10-20|Easy|★|
 | 454|4Sum II|Java/Rust|2020-11-27|Medium||
 | 455|Assign Cookies|Go/Rust|2020-12-25|Easy||
 | 459|Repeated Substring Pattern|Go|2021-05-14|Easy|★★★|
