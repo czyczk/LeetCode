@@ -36,6 +36,7 @@
 |  59|Spiral Matrix II|C#/Rust|2021-03-16|Medium|★|
 |  62|Unique Paths|Go/Java/Rust|2020-12-09|Medium||
 |  63|Unique Paths II|Go|2021-07-06|Medium|★|
+|  66|Plus One|Rust|2021-10-21|Easy||
 |  68|Text Justification|Go|2021-09-10|Hard|★★|
 |  70|Climbing Stairs|Go|2021-04-15|Easy|★★|
 |  72|Edit Distance|Go/Java/Rust|2021-05-13|Hard|★★★|
