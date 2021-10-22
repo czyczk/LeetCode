@@ -180,6 +180,7 @@
 | 482|License Key Formatting|Rust|2021-10-04|Easy||
 | 485|Max Consecutive Ones|Rust|2021-02-15|Easy||
 | 491|Increasing Subsequences|Go|2021-07-23|Medium|★★★|
+| 492|Construct the Rectangle|Rust|2021-10-23|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 494|Target Sum|Go|2021-07-13|Medium|★★★★|
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
