@@ -119,6 +119,7 @@
 | 235|Lowest Common Ancestor of a Binary Search Tree|Go|2021-09-07|Easy|★★★|
 | 236|Lowest Common Ancestor of a Binary Tree|Go|2021-09-07|Medium|★★★|
 | 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
+| 240|Search a 2D Matrix II|Rust|2021-10-25|Medium||
 | 242|Valid Anagram|Go|2021-07-08|Easy||
 | 257|Binary Tree Paths|Go|2021-08-12|Easy||
 | 273|Integer to English Words|Rust|2021-10-11|Hard|★★|
