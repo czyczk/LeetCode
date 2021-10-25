@@ -184,6 +184,7 @@
 | 492|Construct the Rectangle|Rust|2021-10-23|Easy||
 | 493|Reverse Pairs|Java|✖|Hard||
 | 494|Target Sum|Go|2021-07-13|Medium|★★★★|
+| 496|Next Greater Element I|Rust|2021-10-26|Easy|★★|
 | 503|Next Greater Element II|Rust|2021-03-06|Medium|★★★★|
 | 509|Fibonacci Number|Go|2021-01-04|Easy||
 | 513|Find Bottom Left Tree Value|Go|2021-07-31|Medium|★★|
