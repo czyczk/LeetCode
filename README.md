@@ -139,6 +139,7 @@
 | 330|Patching Array|Rust|2020-12-29|Hard|★★★|
 | 331|Verify Preorder Serialization of a Binary Tree|Rust|2021-03-12|Medium|★|
 | 332|Reconstruct Itinerary|Go|2021-07-25※|Medium|★★★★|
+| 335|Self Crossing|Go|2021-10-29✖|Hard|★★★★★|
 | 338|Counting Bits|Rust|2021-03-03|Medium|★★★|
 | 341|Flatten Nested List Iterator|Rust|2021-03-23|Medium|★|
 | 343|Integer Break|Go|2021-04-23|Medium|★★★|
