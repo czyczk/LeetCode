@@ -122,6 +122,7 @@
 | 240|Search a 2D Matrix II|Rust|2021-10-25|Medium||
 | 242|Valid Anagram|Go|2021-07-08|Easy||
 | 257|Binary Tree Paths|Go|2021-08-12|Easy||
+| 260|Single Number III|Rust|2021-10-30|Medium|★★★|
 | 273|Integer to English Words|Rust|2021-10-11|Hard|★★|
 | 282|Expression Add Operators|Rust|2021-10-19|Hard|★★★★|
 | 283|Move Zeroes|Rust|2021-06-25|Easy||
