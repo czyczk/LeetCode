@@ -118,6 +118,7 @@
 | 234|Palindrome Linked List|Go|2021-07-06|Easy|★|
 | 235|Lowest Common Ancestor of a Binary Search Tree|Go|2021-09-07|Easy|★★★|
 | 236|Lowest Common Ancestor of a Binary Tree|Go|2021-09-07|Medium|★★★|
+| 237|Delete Node in a Linked List|Go|2021-11-02|Easy|★|
 | 239|Sliding Window Maximum|Go/Java/Rust|2021-01-02|Hard|★★|
 | 240|Search a 2D Matrix II|Rust|2021-10-25|Medium||
 | 242|Valid Anagram|Go|2021-07-08|Easy||
